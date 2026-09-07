@@ -1,0 +1,14 @@
+{
+  "_authority": "dashboard.html - reverse-engineered and validated at 10,049/10,051 visits exact (PLAN 4.9)",
+  "_note": "Diagnostic mode. Reproduces the dashboard exactly so its numbers can be explained rather than argued about.",
+  "_extends": "scoring.json",
+  "mode": "prototype",
+  "minParametersRecorded": 1,
+  "dedupeShedDay": false,
+  "excludeFutureDates": false,
+  "livestockGroups": {
+    "all": { "farmTypes": null,
+      "parameters": ["feederHeight","drinkerHeight","litterMaterial","litterCondition","curtain","humidity","ventilation","ammonia"] }
+  },
+  "excludedFarmTypes": []
+}

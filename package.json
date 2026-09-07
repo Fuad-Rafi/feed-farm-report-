@@ -1,0 +1,16 @@
+{
+  "name": "akij-farm-report",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Akij Agro Feed - shed-condition score and farm tiering",
+  "main": "src/run.js",
+  "scripts": {
+    "test": "node --test \"test/*.test.js\"",
+    "ping": "node -e \"require('./src/db').ping().then(console.log)\""
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "exceljs": "^4.4.0",
+    "mssql": "^11.0.1"
+  }
+}

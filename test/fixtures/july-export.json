@@ -1,0 +1,5007 @@
+{
+ "_source": "Farm_Condition_Scores_july.xlsx",
+ "_sheet": "Farm Condition Scores",
+ "_cap": 500,
+ "rows": [
+  {
+   "farmName": "Pritish Mondol",
+   "farmId": 310,
+   "farmType": "Layer",
+   "region": "Khulna",
+   "territory": "Khulna-1",
+   "visits": 1,
+   "avg": 100,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Joyonto",
+   "farmId": 371,
+   "farmType": "Layer",
+   "region": "Khulna",
+   "territory": "Satkhira",
+   "visits": 1,
+   "avg": 100,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Ataur",
+   "farmId": 393,
+   "farmType": "Broiler",
+   "region": "Khulna",
+   "territory": "Satkhira",
+   "visits": 5,
+   "avg": 100,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Enamul layer",
+   "farmId": 519,
+   "farmType": "Layer",
+   "region": "Cumilla",
+   "territory": "Chandpur",
+   "visits": 1,
+   "avg": 100,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Mamun Layer",
+   "farmId": 773,
+   "farmType": "Layer",
+   "region": "Cumilla",
+   "territory": "Chandina",
+   "visits": 1,
+   "avg": 100,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Choyon Mondol",
+   "farmId": 785,
+   "farmType": "Layer",
+   "region": "Khulna",
+   "territory": "Khulna-1",
+   "visits": 1,
+   "avg": 100,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Dhiraj boropukut",
+   "farmId": 1040,
+   "farmType": "Sonali",
+   "region": "Khulna",
+   "territory": "Satkhira",
+   "visits": 1,
+   "avg": 100,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Milon dorbasa",
+   "farmId": 1069,
+   "farmType": "Layer",
+   "region": "Khulna",
+   "territory": "Satkhira",
+   "visits": 3,
+   "avg": 100,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Siraj",
+   "farmId": 1204,
+   "farmType": "Broiler",
+   "region": "Khulna",
+   "territory": "Satkhira",
+   "visits": 5,
+   "avg": 100,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Saddam Sakda",
+   "farmId": 1205,
+   "farmType": "Broiler",
+   "region": "Khulna",
+   "territory": "Satkhira",
+   "visits": 1,
+   "avg": 100,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Jamir sotopukut",
+   "farmId": 1302,
+   "farmType": "Layer",
+   "region": "Khulna",
+   "territory": "Satkhira",
+   "visits": 1,
+   "avg": 100,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Mursid Water 1 farm",
+   "farmId": 1759,
+   "farmType": "Layer",
+   "region": "Kishoreganj",
+   "territory": "Kishoreganj 2",
+   "visits": 1,
+   "avg": 100,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Murshid taner farm",
+   "farmId": 1760,
+   "farmType": "Layer",
+   "region": "Kishoreganj",
+   "territory": "Kishoreganj 2",
+   "visits": 1,
+   "avg": 100,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Ramjan mia 2",
+   "farmId": 1995,
+   "farmType": "Layer",
+   "region": "Kishoreganj",
+   "territory": "Kishoreganj 2",
+   "visits": 2,
+   "avg": 100,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Hafiz layer hawolvangi",
+   "farmId": 2309,
+   "farmType": "Layer",
+   "region": "Khulna",
+   "territory": "Satkhira",
+   "visits": 2,
+   "avg": 100,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Saddam broiler pirojpur",
+   "farmId": 2435,
+   "farmType": "Broiler",
+   "region": "Khulna",
+   "territory": "Satkhira",
+   "visits": 1,
+   "avg": 100,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Sojun konapara 1 farem konapara",
+   "farmId": 2585,
+   "farmType": "Layer",
+   "region": "Kishoreganj",
+   "territory": "Kishoreganj 2",
+   "visits": 1,
+   "avg": 100,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Asad B. Boropukut",
+   "farmId": 2690,
+   "farmType": "Broiler",
+   "region": "Khulna",
+   "territory": "Satkhira",
+   "visits": 3,
+   "avg": 100,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "RS Poultry",
+   "farmId": 3048,
+   "farmType": "Broiler",
+   "region": "Bogura",
+   "territory": "Bogura 2",
+   "visits": 1,
+   "avg": 100,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Naznin Nahar",
+   "farmId": 3179,
+   "farmType": "Colour",
+   "region": "Khulna",
+   "territory": "Khulna-1",
+   "visits": 3,
+   "avg": 100,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Sojib Charghat CB",
+   "farmId": 3180,
+   "farmType": "Colour",
+   "region": "Khulna",
+   "territory": "Satkhira",
+   "visits": 1,
+   "avg": 100,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Raju Duck jhapaghat",
+   "farmId": 3208,
+   "farmType": "Duck",
+   "region": "Khulna",
+   "territory": "Satkhira",
+   "visits": 6,
+   "avg": 100,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Azharul Duck Jhapaghat",
+   "farmId": 3218,
+   "farmType": "Duck",
+   "region": "Khulna",
+   "territory": "Satkhira",
+   "visits": 6,
+   "avg": 100,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Rabbi, broiler -amtola",
+   "farmId": 3720,
+   "farmType": "Broiler",
+   "region": "Bogura",
+   "territory": "Bogura 2",
+   "visits": 1,
+   "avg": 100,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Belal, Boruil-Farm-6",
+   "farmId": 3782,
+   "farmType": "Sonali",
+   "region": "Bogura",
+   "territory": "Bogura 1",
+   "visits": 2,
+   "avg": 100,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Monirul Broiler Akhrakhola",
+   "farmId": 3946,
+   "farmType": "Broiler",
+   "region": "Khulna",
+   "territory": "Satkhira",
+   "visits": 7,
+   "avg": 100,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Goutom CB Shotopukut",
+   "farmId": 3992,
+   "farmType": "Colour",
+   "region": "Khulna",
+   "territory": "Satkhira",
+   "visits": 1,
+   "avg": 100,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Mrinal Layer Cunkuri",
+   "farmId": 3998,
+   "farmType": "Layer",
+   "region": "Khulna",
+   "territory": "Satkhira",
+   "visits": 2,
+   "avg": 100,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Shabudin 1200",
+   "farmId": 4148,
+   "farmType": "Broiler",
+   "region": "Kishoreganj",
+   "territory": "Kishoreganj 2",
+   "visits": 1,
+   "avg": 100,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Sahin Sekh",
+   "farmId": 4172,
+   "farmType": "Colour",
+   "region": "Khulna",
+   "territory": "Khulna-1",
+   "visits": 4,
+   "avg": 100,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Md Saman",
+   "farmId": 4212,
+   "farmType": "Colour",
+   "region": "Khulna",
+   "territory": "Khulna-1",
+   "visits": 4,
+   "avg": 100,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Aboul kalam",
+   "farmId": 4247,
+   "farmType": "Broiler",
+   "region": "Kishoreganj",
+   "territory": "Kishoreganj 1",
+   "visits": 2,
+   "avg": 100,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Sattar Hawlader",
+   "farmId": 4274,
+   "farmType": "Broiler",
+   "region": "Khulna",
+   "territory": "Khulna-1",
+   "visits": 1,
+   "avg": 100,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Rabbi, broiler, Hudar mor",
+   "farmId": 4345,
+   "farmType": "Broiler",
+   "region": "Bogura",
+   "territory": "Bogura 2",
+   "visits": 1,
+   "avg": 100,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Rabbi, amtola, building",
+   "farmId": 4356,
+   "farmType": "Broiler",
+   "region": "Bogura",
+   "territory": "Bogura 2",
+   "visits": 1,
+   "avg": 100,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Md.Naim R",
+   "farmId": 4437,
+   "farmType": "Duck",
+   "region": "Khulna",
+   "territory": "Khulna-1",
+   "visits": 2,
+   "avg": 100,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Masud Rana CB khaspur",
+   "farmId": 4463,
+   "farmType": "Colour",
+   "region": "Khulna",
+   "territory": "Satkhira",
+   "visits": 3,
+   "avg": 100,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Jahid hossen(B.cook)",
+   "farmId": 4624,
+   "farmType": "Sonali",
+   "region": "Khulna",
+   "territory": "Satkhira",
+   "visits": 2,
+   "avg": 100,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Rahamutola mia chorpromody",
+   "farmId": 4636,
+   "farmType": "Broiler",
+   "region": "Kishoreganj",
+   "territory": "Kishoreganj 1",
+   "visits": 3,
+   "avg": 100,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Mustofa Orisshor",
+   "farmId": 4714,
+   "farmType": "Layer",
+   "region": "Cumilla",
+   "territory": "Chandina",
+   "visits": 1,
+   "avg": 100,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Salam,eruil,broiler",
+   "farmId": 4761,
+   "farmType": "Broiler",
+   "region": "Bogura",
+   "territory": "Bogura 1",
+   "visits": 2,
+   "avg": 100,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Md Asraful islam",
+   "farmId": 4842,
+   "farmType": "Broiler",
+   "region": "Khulna",
+   "territory": "Khulna-1",
+   "visits": 3,
+   "avg": 100,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Sohel Broiler Moutola",
+   "farmId": 4926,
+   "farmType": "Broiler",
+   "region": "Khulna",
+   "territory": "Satkhira",
+   "visits": 1,
+   "avg": 100,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Abdullah C.B",
+   "farmId": 4937,
+   "farmType": "Colour",
+   "region": "Khulna",
+   "territory": "Satkhira",
+   "visits": 1,
+   "avg": 100,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Aboul kalam 760",
+   "farmId": 4954,
+   "farmType": "Broiler",
+   "region": "Kishoreganj",
+   "territory": "Kishoreganj 2",
+   "visits": 1,
+   "avg": 100,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Jhriol mia 900",
+   "farmId": 4967,
+   "farmType": "Broiler",
+   "region": "Kishoreganj",
+   "territory": "Kishoreganj 1",
+   "visits": 1,
+   "avg": 100,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Hafiz color hawolvangi",
+   "farmId": 2310,
+   "farmType": "Colour",
+   "region": "Khulna",
+   "territory": "Satkhira",
+   "visits": 4,
+   "avg": 96.9,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Rifat Agro",
+   "farmId": 446,
+   "farmType": "Broiler",
+   "region": "Rangpur",
+   "territory": "Gaibandha",
+   "visits": 9,
+   "avg": 95.9,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Belal Boruil- Farm-7",
+   "farmId": 3783,
+   "farmType": "Sonali",
+   "region": "Bogura",
+   "territory": "Bogura 1",
+   "visits": 3,
+   "avg": 95.8,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Shain mia",
+   "farmId": 4633,
+   "farmType": "Broiler",
+   "region": "Kishoreganj",
+   "territory": "Kishoreganj 2",
+   "visits": 3,
+   "avg": 95.8,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Barik farm",
+   "farmId": 288,
+   "farmType": "Layer",
+   "region": "Tangail",
+   "territory": "Modhupur",
+   "visits": 1,
+   "avg": 93.8,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Adarsha Khamar",
+   "farmId": 420,
+   "farmType": "Sonali",
+   "region": "Khulna",
+   "territory": "Jashore",
+   "visits": 2,
+   "avg": 93.8,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Mia Poultry",
+   "farmId": 457,
+   "farmType": "Layer",
+   "region": "Rangpur",
+   "territory": "Gaibandha",
+   "visits": 2,
+   "avg": 93.8,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Khalek 2",
+   "farmId": 1418,
+   "farmType": "Broiler",
+   "region": "Bogura",
+   "territory": "Bogura 1",
+   "visits": 2,
+   "avg": 93.8,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Chan mia",
+   "farmId": 1559,
+   "farmType": "Colour",
+   "region": "Sirajganj",
+   "territory": "Sirajganj 2",
+   "visits": 2,
+   "avg": 93.8,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Din islam 800 poschimpara",
+   "farmId": 2411,
+   "farmType": "Layer",
+   "region": "Kishoreganj",
+   "territory": "Kishoreganj 2",
+   "visits": 2,
+   "avg": 93.8,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Rakib Broiler brajobakso",
+   "farmId": 2437,
+   "farmType": "Broiler",
+   "region": "Khulna",
+   "territory": "Satkhira",
+   "visits": 2,
+   "avg": 93.8,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Chowdhury Agro",
+   "farmId": 2446,
+   "farmType": "Layer",
+   "region": "Ctg North",
+   "territory": "Hathazari",
+   "visits": 2,
+   "avg": 93.8,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Chad poultry farm",
+   "farmId": 2768,
+   "farmType": "Broiler",
+   "region": "Sirajganj",
+   "territory": "Pabna 1",
+   "visits": 1,
+   "avg": 93.8,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Shah Alam bhai Mohammadpur",
+   "farmId": 2953,
+   "farmType": "Broiler",
+   "region": "Ctg North",
+   "territory": "Hathazari",
+   "visits": 1,
+   "avg": 93.8,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Yearul",
+   "farmId": 2994,
+   "farmType": "Broiler",
+   "region": "Sirajganj",
+   "territory": "Pabna 1",
+   "visits": 1,
+   "avg": 93.8,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Shohag farm",
+   "farmId": 3329,
+   "farmType": "Broiler",
+   "region": "Barishal",
+   "territory": "Borguna",
+   "visits": 1,
+   "avg": 93.8,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Amanul poultry",
+   "farmId": 3332,
+   "farmType": "Broiler",
+   "region": "Barishal",
+   "territory": "Borguna",
+   "visits": 6,
+   "avg": 93.8,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Ahmed Galib",
+   "farmId": 3756,
+   "farmType": "Broiler",
+   "region": "Khulna",
+   "territory": "Khulna-1",
+   "visits": 1,
+   "avg": 93.8,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Belal ( CB Akij)",
+   "farmId": 4176,
+   "farmType": "Sonali",
+   "region": "Jhenaidah",
+   "territory": "Kushtia",
+   "visits": 1,
+   "avg": 93.8,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Hamim Farm",
+   "farmId": 4234,
+   "farmType": "Colour",
+   "region": "Narsingdi",
+   "territory": "Raipura",
+   "visits": 2,
+   "avg": 93.8,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Majharul poultry",
+   "farmId": 4427,
+   "farmType": "Broiler",
+   "region": "Mymensingh",
+   "territory": "Netrokona",
+   "visits": 1,
+   "avg": 93.8,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Momin sekh CB (horinarayonpur)",
+   "farmId": 4447,
+   "farmType": "Colour",
+   "region": "Jhenaidah",
+   "territory": "Kushtia",
+   "visits": 1,
+   "avg": 93.8,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Faridul Broiler Farm",
+   "farmId": 4603,
+   "farmType": "Broiler",
+   "region": "Rangpur",
+   "territory": "Gaibandha",
+   "visits": 1,
+   "avg": 93.8,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Zohurul Broiler Farm",
+   "farmId": 4606,
+   "farmType": "Broiler",
+   "region": "Rangpur",
+   "territory": "Gaibandha",
+   "visits": 1,
+   "avg": 93.8,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Ershadul Broiler Farm",
+   "farmId": 4608,
+   "farmType": "Broiler",
+   "region": "Rangpur",
+   "territory": "Gaibandha",
+   "visits": 1,
+   "avg": 93.8,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Jakaria",
+   "farmId": 4638,
+   "farmType": "Broiler",
+   "region": "Barishal",
+   "territory": "Borguna",
+   "visits": 1,
+   "avg": 93.8,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Sabbir, sondhabari,sonali",
+   "farmId": 4639,
+   "farmType": "Sonali",
+   "region": "Bogura",
+   "territory": "Bogura 2",
+   "visits": 1,
+   "avg": 93.8,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Sabbir poultry farm",
+   "farmId": 4689,
+   "farmType": "Colour",
+   "region": "Sirajganj",
+   "territory": "Pabna 1",
+   "visits": 1,
+   "avg": 93.8,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Ittadi poultry farm",
+   "farmId": 4690,
+   "farmType": "Sonali",
+   "region": "Dinajpur",
+   "territory": "Dinajpur",
+   "visits": 1,
+   "avg": 93.8,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Dadi",
+   "farmId": 4958,
+   "farmType": "Colour",
+   "region": "Jhenaidah",
+   "territory": "Kushtia",
+   "visits": 1,
+   "avg": 93.8,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Sumon Layer Farm",
+   "farmId": 4963,
+   "farmType": "Layer",
+   "region": "Rangpur",
+   "territory": "Gaibandha",
+   "visits": 1,
+   "avg": 93.8,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "ridoy",
+   "farmId": 5048,
+   "farmType": "Broiler",
+   "region": "Tangail",
+   "territory": "Modhupur",
+   "visits": 1,
+   "avg": 93.8,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Prodip",
+   "farmId": 977,
+   "farmType": "Sonali",
+   "region": "Bogura",
+   "territory": "Joypurhat",
+   "visits": 4,
+   "avg": 92.2,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Dowlot Broiler Farm",
+   "farmId": 4881,
+   "farmType": "Broiler",
+   "region": "Narsingdi",
+   "territory": "Raipura",
+   "visits": 4,
+   "avg": 92.2,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Jasim pachkitta",
+   "farmId": 1681,
+   "farmType": "Broiler",
+   "region": "Cumilla",
+   "territory": "Chandina",
+   "visits": 2,
+   "avg": 91.9,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Maruf poultry",
+   "farmId": 2680,
+   "farmType": "Sonali",
+   "region": "Bogura",
+   "territory": "Joypurhat",
+   "visits": 6,
+   "avg": 91.7,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Sagor colour bird",
+   "farmId": 2860,
+   "farmType": "Colour",
+   "region": "Sirajganj",
+   "territory": "Pabna 1",
+   "visits": 3,
+   "avg": 91.7,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Rozario broiler",
+   "farmId": 4811,
+   "farmType": "Broiler",
+   "region": "Gazipur",
+   "territory": "Savar",
+   "visits": 3,
+   "avg": 91.7,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Faruk Broiler farm",
+   "farmId": 3853,
+   "farmType": "Broiler",
+   "region": "Sirajganj",
+   "territory": "Pabna 1",
+   "visits": 3,
+   "avg": 91.4,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Shamsul 001",
+   "farmId": 1058,
+   "farmType": "Broiler",
+   "region": "Sirajganj",
+   "territory": "Sirajganj 2",
+   "visits": 2,
+   "avg": 90.7,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Tareq",
+   "farmId": 1414,
+   "farmType": "Broiler",
+   "region": "Bogura",
+   "territory": "Bogura 1",
+   "visits": 2,
+   "avg": 90.7,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Forhad Broiler Farm",
+   "farmId": 2450,
+   "farmType": "Broiler",
+   "region": "Rangpur",
+   "territory": "Gaibandha",
+   "visits": 4,
+   "avg": 90.7,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Babu poultry farm",
+   "farmId": 2872,
+   "farmType": "Colour",
+   "region": "Sirajganj",
+   "territory": "Pabna 1",
+   "visits": 2,
+   "avg": 90.7,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Rubel Agro Farm",
+   "farmId": 4441,
+   "farmType": "Colour",
+   "region": "Khulna",
+   "territory": "Jashore",
+   "visits": 2,
+   "avg": 90.7,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Haque Colour bird farm",
+   "farmId": 4704,
+   "farmType": "Colour",
+   "region": "Narsingdi",
+   "territory": "Raipura",
+   "visits": 6,
+   "avg": 90.6,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Betagi: Kamal bhai-Pahar",
+   "farmId": 4556,
+   "farmType": "Broiler",
+   "region": "Ctg North",
+   "territory": "Hathazari",
+   "visits": 2,
+   "avg": 90.2,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Jahangir Boro Durgapur",
+   "farmId": 703,
+   "farmType": "Broiler",
+   "region": "Rangpur",
+   "territory": "Gaibandha",
+   "visits": 5,
+   "avg": 90,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Kalu layer farm",
+   "farmId": 1623,
+   "farmType": "Layer",
+   "region": "Cumilla",
+   "territory": "Daudkandi",
+   "visits": 5,
+   "avg": 90,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Azam- Syed Company",
+   "farmId": 4504,
+   "farmType": "Broiler",
+   "region": "Ctg North",
+   "territory": "Hathazari",
+   "visits": 1,
+   "avg": 90,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Md.Shafiqul islam",
+   "farmId": 4411,
+   "farmType": "Sonali",
+   "region": "Bogura",
+   "territory": "Joypurhat",
+   "visits": 4,
+   "avg": 89.7,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Faruk colour bird house",
+   "farmId": 2847,
+   "farmType": "Colour",
+   "region": "Sirajganj",
+   "territory": "Pabna 1",
+   "visits": 3,
+   "avg": 89.6,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Razib Broiler Farm",
+   "farmId": 4730,
+   "farmType": "Broiler",
+   "region": "Narsingdi",
+   "territory": "Raipura",
+   "visits": 3,
+   "avg": 89.6,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Akash broiler",
+   "farmId": 4741,
+   "farmType": "Broiler",
+   "region": "Gazipur",
+   "territory": "Savar",
+   "visits": 6,
+   "avg": 89.6,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Hashem duck farm",
+   "farmId": 4825,
+   "farmType": "Duck",
+   "region": "Gazipur",
+   "territory": "Savar",
+   "visits": 5,
+   "avg": 88.8,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Ali Ashraf Panna",
+   "farmId": 4497,
+   "farmType": "Layer",
+   "region": "Rajshahi",
+   "territory": "Natore",
+   "visits": 4,
+   "avg": 88.1,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Hira akter",
+   "farmId": 3705,
+   "farmType": "Broiler",
+   "region": "Jhenaidah",
+   "territory": "Kushtia",
+   "visits": 6,
+   "avg": 87.6,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Lipi farm",
+   "farmId": 4505,
+   "farmType": "Colour",
+   "region": "Narsingdi",
+   "territory": "Raipura",
+   "visits": 2,
+   "avg": 87.6,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Masud mia",
+   "farmId": 4566,
+   "farmType": "Broiler",
+   "region": "Narsingdi",
+   "territory": "Shibpur",
+   "visits": 4,
+   "avg": 87.6,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Litu poultry farm",
+   "farmId": 4691,
+   "farmType": "Colour",
+   "region": "Sirajganj",
+   "territory": "Pabna 1",
+   "visits": 2,
+   "avg": 87.6,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Motaleb Broiler",
+   "farmId": 4708,
+   "farmType": "Broiler",
+   "region": "Gazipur",
+   "territory": "Savar",
+   "visits": 2,
+   "avg": 87.6,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Bhutto",
+   "farmId": 378,
+   "farmType": "Broiler",
+   "region": "Jhenaidah",
+   "territory": "Jhenaidah",
+   "visits": 1,
+   "avg": 87.5,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Babul Gazi",
+   "farmId": 407,
+   "farmType": "Layer",
+   "region": "Khulna",
+   "territory": "Bagerhat",
+   "visits": 1,
+   "avg": 87.5,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Sojibul",
+   "farmId": 512,
+   "farmType": "Broiler",
+   "region": "Sylhet",
+   "territory": "Habiganj",
+   "visits": 1,
+   "avg": 87.5,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Rakib",
+   "farmId": 514,
+   "farmType": "Broiler",
+   "region": "Sylhet",
+   "territory": "Habiganj",
+   "visits": 1,
+   "avg": 87.5,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Shakil Farm Goma",
+   "farmId": 557,
+   "farmType": "Broiler",
+   "region": "Barishal",
+   "territory": "Barishal",
+   "visits": 1,
+   "avg": 87.5,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Jomaddar Farm Subidpur",
+   "farmId": 576,
+   "farmType": "Broiler",
+   "region": "Barishal",
+   "territory": "Barishal",
+   "visits": 1,
+   "avg": 87.5,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Jisan Farm Sohagdal",
+   "farmId": 595,
+   "farmType": "Layer",
+   "region": "Barishal",
+   "territory": "Barishal",
+   "visits": 9,
+   "avg": 87.5,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Salam poultry",
+   "farmId": 602,
+   "farmType": "Layer",
+   "region": "Bogura",
+   "territory": "Bogura 1",
+   "visits": 2,
+   "avg": 87.5,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Mainul Farm Shibpur",
+   "farmId": 644,
+   "farmType": "Layer",
+   "region": "Barishal",
+   "territory": "Barishal",
+   "visits": 5,
+   "avg": 87.5,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Masud",
+   "farmId": 684,
+   "farmType": "Layer",
+   "region": "Bogura",
+   "territory": "Bogura 2",
+   "visits": 3,
+   "avg": 87.5,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Chuton vai layer farm",
+   "farmId": 742,
+   "farmType": "Layer",
+   "region": "Ctg South",
+   "territory": "Satkania",
+   "visits": 1,
+   "avg": 87.5,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Ibrahim Farm Chiltala",
+   "farmId": 801,
+   "farmType": "Layer",
+   "region": "Barishal",
+   "territory": "Barishal",
+   "visits": 1,
+   "avg": 87.5,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Mansur Khan Farm Siddhakathi",
+   "farmId": 829,
+   "farmType": "Broiler",
+   "region": "Barishal",
+   "territory": "Barishal",
+   "visits": 1,
+   "avg": 87.5,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Shakil Farm Kawnia",
+   "farmId": 945,
+   "farmType": "Broiler",
+   "region": "Barishal",
+   "territory": "Barishal",
+   "visits": 2,
+   "avg": 87.5,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Nouloni",
+   "farmId": 956,
+   "farmType": "Sonali",
+   "region": "Rangpur",
+   "territory": "Lalmonirhat",
+   "visits": 1,
+   "avg": 87.5,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Shahin Farm Subidpur",
+   "farmId": 998,
+   "farmType": "Broiler",
+   "region": "Barishal",
+   "territory": "Barishal",
+   "visits": 1,
+   "avg": 87.5,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Wabaidul Farm Siddhakathi",
+   "farmId": 999,
+   "farmType": "Broiler",
+   "region": "Barishal",
+   "territory": "Barishal",
+   "visits": 1,
+   "avg": 87.5,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Abdullah cold store 01",
+   "farmId": 1054,
+   "farmType": "Broiler",
+   "region": "Sirajganj",
+   "territory": "Sirajganj 2",
+   "visits": 1,
+   "avg": 87.5,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Shohel Farm Balihari",
+   "farmId": 1206,
+   "farmType": "Layer",
+   "region": "Barishal",
+   "territory": "Barishal",
+   "visits": 1,
+   "avg": 87.5,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Subodh Farm Shibpur",
+   "farmId": 1209,
+   "farmType": "Layer",
+   "region": "Barishal",
+   "territory": "Barishal",
+   "visits": 2,
+   "avg": 87.5,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Ashraful",
+   "farmId": 1230,
+   "farmType": "Broiler",
+   "region": "Bogura",
+   "territory": "Bogura 1",
+   "visits": 1,
+   "avg": 87.5,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Samrat poultry farm",
+   "farmId": 1406,
+   "farmType": "Sonali",
+   "region": "Jhenaidah",
+   "territory": "Chuadanga",
+   "visits": 4,
+   "avg": 87.5,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Shah Bakshi Farm",
+   "farmId": 1424,
+   "farmType": "Layer",
+   "region": "Ctg South",
+   "territory": "Bashkhali",
+   "visits": 6,
+   "avg": 87.5,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Tayub Farm",
+   "farmId": 1425,
+   "farmType": "Layer",
+   "region": "Ctg South",
+   "territory": "Bashkhali",
+   "visits": 4,
+   "avg": 87.5,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Shofiqul",
+   "farmId": 1444,
+   "farmType": "Duck",
+   "region": "Bogura",
+   "territory": "Bogura 2",
+   "visits": 2,
+   "avg": 87.5,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Shanti poultry farm",
+   "farmId": 1460,
+   "farmType": "Broiler",
+   "region": "Jhenaidah",
+   "territory": "Chuadanga",
+   "visits": 4,
+   "avg": 87.5,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Helal farm",
+   "farmId": 1486,
+   "farmType": "Broiler",
+   "region": "Gopalgonj",
+   "territory": "Faridpur",
+   "visits": 1,
+   "avg": 87.5,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Ishtiaq poultry farm",
+   "farmId": 1509,
+   "farmType": "Broiler",
+   "region": "Jhenaidah",
+   "territory": "Chuadanga",
+   "visits": 1,
+   "avg": 87.5,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Shiful Islam",
+   "farmId": 1560,
+   "farmType": "Layer",
+   "region": "Kishoreganj",
+   "territory": "Kishoreganj 2",
+   "visits": 1,
+   "avg": 87.5,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Selim Poultry",
+   "farmId": 1569,
+   "farmType": "Broiler",
+   "region": "Sylhet",
+   "territory": "Habiganj",
+   "visits": 1,
+   "avg": 87.5,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Hannan new B",
+   "farmId": 1622,
+   "farmType": "Broiler",
+   "region": "Cumilla",
+   "territory": "Chandina",
+   "visits": 3,
+   "avg": 87.5,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Kayes Poultry Farm",
+   "farmId": 1705,
+   "farmType": "Broiler",
+   "region": "Khulna",
+   "territory": "Jashore",
+   "visits": 7,
+   "avg": 87.5,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Hamid",
+   "farmId": 1712,
+   "farmType": "Broiler",
+   "region": "Bogura",
+   "territory": "Bogura 1",
+   "visits": 1,
+   "avg": 87.5,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Monir layer farm 1 poschimpara",
+   "farmId": 1738,
+   "farmType": "Layer",
+   "region": "Kishoreganj",
+   "territory": "Kishoreganj 2",
+   "visits": 4,
+   "avg": 87.5,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "আসাদুল poschimpara 1",
+   "farmId": 1748,
+   "farmType": "Layer",
+   "region": "Kishoreganj",
+   "territory": "Kishoreganj 2",
+   "visits": 2,
+   "avg": 87.5,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Mursid mia New large 1",
+   "farmId": 1757,
+   "farmType": "Layer",
+   "region": "Kishoreganj",
+   "territory": "Kishoreganj 2",
+   "visits": 1,
+   "avg": 87.5,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Atawar 02",
+   "farmId": 1766,
+   "farmType": "Sonali",
+   "region": "Sirajganj",
+   "territory": "Sirajganj 2",
+   "visits": 1,
+   "avg": 87.5,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Saiful Farm Bildumuria",
+   "farmId": 1856,
+   "farmType": "Colour",
+   "region": "Barishal",
+   "territory": "Barishal",
+   "visits": 3,
+   "avg": 87.5,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Ahsan ujanchar",
+   "farmId": 1938,
+   "farmType": "Broiler",
+   "region": "Cumilla",
+   "territory": "Daudkandi",
+   "visits": 1,
+   "avg": 87.5,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Anwar Farm Kagashura",
+   "farmId": 1946,
+   "farmType": "Broiler",
+   "region": "Barishal",
+   "territory": "Barishal",
+   "visits": 2,
+   "avg": 87.5,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Momen layer farm",
+   "farmId": 1948,
+   "farmType": "Layer",
+   "region": "Gazipur",
+   "territory": "Savar",
+   "visits": 1,
+   "avg": 87.5,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Nasir Jomaddar Farm Shikarpur",
+   "farmId": 1975,
+   "farmType": "Broiler",
+   "region": "Barishal",
+   "territory": "Barishal",
+   "visits": 3,
+   "avg": 87.5,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Sajib Farm Shikarpur",
+   "farmId": 1980,
+   "farmType": "Broiler",
+   "region": "Barishal",
+   "territory": "Barishal",
+   "visits": 1,
+   "avg": 87.5,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Riyad khirakandi",
+   "farmId": 2009,
+   "farmType": "Broiler",
+   "region": "Cumilla",
+   "territory": "Chandina",
+   "visits": 1,
+   "avg": 87.5,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Manoz Farm Shibpur",
+   "farmId": 2021,
+   "farmType": "Layer",
+   "region": "Barishal",
+   "territory": "Barishal",
+   "visits": 1,
+   "avg": 87.5,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Hasem Haripur",
+   "farmId": 2054,
+   "farmType": "Broiler",
+   "region": "Cumilla",
+   "territory": "Chandina",
+   "visits": 1,
+   "avg": 87.5,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "MD. Wadud (Char Jongla)",
+   "farmId": 2133,
+   "farmType": "Broiler",
+   "region": "Barishal",
+   "territory": "Bhula",
+   "visits": 1,
+   "avg": 87.5,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Nasrin Khatun",
+   "farmId": 2231,
+   "farmType": "Sonali",
+   "region": "Jhenaidah",
+   "territory": "Kushtia",
+   "visits": 1,
+   "avg": 87.5,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Torikul",
+   "farmId": 2245,
+   "farmType": "Broiler",
+   "region": "Mymensingh",
+   "territory": "Fulpur",
+   "visits": 1,
+   "avg": 87.5,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Shahin",
+   "farmId": 2399,
+   "farmType": "Layer",
+   "region": "Bogura",
+   "territory": "Bogura 2",
+   "visits": 2,
+   "avg": 87.5,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Sohidula mia 1 majin bhi",
+   "farmId": 2408,
+   "farmType": "Layer",
+   "region": "Kishoreganj",
+   "territory": "Kishoreganj 2",
+   "visits": 2,
+   "avg": 87.5,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Sohidula mia 2 farm",
+   "farmId": 2409,
+   "farmType": "Layer",
+   "region": "Kishoreganj",
+   "territory": "Kishoreganj 2",
+   "visits": 3,
+   "avg": 87.5,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Shohel (Velumia, Bhola Sador)",
+   "farmId": 2639,
+   "farmType": "Broiler",
+   "region": "Barishal",
+   "territory": "Bhula",
+   "visits": 1,
+   "avg": 87.5,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Mannan poultry",
+   "farmId": 2713,
+   "farmType": "Colour",
+   "region": "Sirajganj",
+   "territory": "Pabna 1",
+   "visits": 3,
+   "avg": 87.5,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Babu Sonali Sondhabari",
+   "farmId": 2723,
+   "farmType": "Sonali",
+   "region": "Bogura",
+   "territory": "Bogura 1",
+   "visits": 1,
+   "avg": 87.5,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Chan miya layer farm",
+   "farmId": 2833,
+   "farmType": "Layer",
+   "region": "Gazipur",
+   "territory": "Savar",
+   "visits": 6,
+   "avg": 87.5,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Shahid",
+   "farmId": 2921,
+   "farmType": "Layer",
+   "region": "Rajshahi",
+   "territory": "Rajshahi",
+   "visits": 3,
+   "avg": 87.5,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Riyad layer agro",
+   "farmId": 2954,
+   "farmType": "Layer",
+   "region": "Cumilla",
+   "territory": "Chandina",
+   "visits": 1,
+   "avg": 87.5,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Sultana dairy",
+   "farmId": 3266,
+   "farmType": "Layer",
+   "region": "Sirajganj",
+   "territory": "Pabna 1",
+   "visits": 1,
+   "avg": 87.5,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Mahtab",
+   "farmId": 3273,
+   "farmType": "Colour",
+   "region": "Sirajganj",
+   "territory": "Pabna 2",
+   "visits": 1,
+   "avg": 87.5,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Zubayer",
+   "farmId": 3414,
+   "farmType": "Broiler",
+   "region": "Sylhet",
+   "territory": "Moulvibazar",
+   "visits": 2,
+   "avg": 87.5,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Lutfar rahman c.b",
+   "farmId": 3524,
+   "farmType": "Colour",
+   "region": "Khulna",
+   "territory": "Satkhira",
+   "visits": 1,
+   "avg": 87.5,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Kamal",
+   "farmId": 3598,
+   "farmType": "Broiler",
+   "region": "Tangail",
+   "territory": "Sherpur",
+   "visits": 1,
+   "avg": 87.5,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Tanvir,Borkota, S,1000",
+   "farmId": 3656,
+   "farmType": "Broiler",
+   "region": "Sylhet",
+   "territory": "Habiganj",
+   "visits": 1,
+   "avg": 87.5,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Kutubuddin, Borkota,1000,S",
+   "farmId": 3706,
+   "farmType": "Broiler",
+   "region": "Sylhet",
+   "territory": "Habiganj",
+   "visits": 1,
+   "avg": 87.5,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Rabbi,broiler- amtola purbo para",
+   "farmId": 3721,
+   "farmType": "Broiler",
+   "region": "Bogura",
+   "territory": "Bogura 2",
+   "visits": 1,
+   "avg": 87.5,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Belal, boruil-Farm-3",
+   "farmId": 3779,
+   "farmType": "Sonali",
+   "region": "Bogura",
+   "territory": "Bogura 1",
+   "visits": 1,
+   "avg": 87.5,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Belal boruil-Farm-4",
+   "farmId": 3780,
+   "farmType": "Sonali",
+   "region": "Bogura",
+   "territory": "Bogura 1",
+   "visits": 1,
+   "avg": 87.5,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Belal boruil-Farm-5",
+   "farmId": 3781,
+   "farmType": "Sonali",
+   "region": "Bogura",
+   "territory": "Bogura 1",
+   "visits": 1,
+   "avg": 87.5,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Joje poultry",
+   "farmId": 3793,
+   "farmType": "Broiler",
+   "region": "Mymensingh",
+   "territory": "Mymensingh",
+   "visits": 1,
+   "avg": 87.5,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Md. Ali Farm Goma",
+   "farmId": 3802,
+   "farmType": "Broiler",
+   "region": "Barishal",
+   "territory": "Barishal",
+   "visits": 1,
+   "avg": 87.5,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Mahfuz",
+   "farmId": 3803,
+   "farmType": "Layer",
+   "region": "Tangail",
+   "territory": "Sherpur",
+   "visits": 1,
+   "avg": 87.5,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Faisal Farm Goma",
+   "farmId": 3804,
+   "farmType": "Broiler",
+   "region": "Barishal",
+   "territory": "Barishal",
+   "visits": 1,
+   "avg": 87.5,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Mazan Bhai",
+   "farmId": 3816,
+   "farmType": "Broiler",
+   "region": "Cumilla",
+   "territory": "Chandina",
+   "visits": 1,
+   "avg": 87.5,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Shah alom 02",
+   "farmId": 3828,
+   "farmType": "Broiler",
+   "region": "Sirajganj",
+   "territory": "Sirajganj 1",
+   "visits": 3,
+   "avg": 87.5,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Liakot Poultry farm Subraj",
+   "farmId": 3835,
+   "farmType": "Broiler",
+   "region": "Jhenaidah",
+   "territory": "Chuadanga",
+   "visits": 1,
+   "avg": 87.5,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Md.Jilani",
+   "farmId": 3838,
+   "farmType": "Colour",
+   "region": "Cumilla",
+   "territory": "Daudkandi",
+   "visits": 1,
+   "avg": 87.5,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Limon Poultry farm ( Domchara)",
+   "farmId": 3908,
+   "farmType": "Broiler",
+   "region": "Jhenaidah",
+   "territory": "Chuadanga",
+   "visits": 1,
+   "avg": 87.5,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Fajlu layer farm",
+   "farmId": 4056,
+   "farmType": "Layer",
+   "region": "Khulna",
+   "territory": "Bagerhat",
+   "visits": 1,
+   "avg": 87.5,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Shikder layer farm",
+   "farmId": 4058,
+   "farmType": "Layer",
+   "region": "Khulna",
+   "territory": "Bagerhat",
+   "visits": 2,
+   "avg": 87.5,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Kawsar(kataliakanda)",
+   "farmId": 4091,
+   "farmType": "Colour",
+   "region": "Cumilla",
+   "territory": "Chandina",
+   "visits": 1,
+   "avg": 87.5,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Rubel poultry farm",
+   "farmId": 4118,
+   "farmType": "Broiler",
+   "region": "Bogura",
+   "territory": "Naogaon",
+   "visits": 1,
+   "avg": 87.5,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Abul Kasem (Sonali)",
+   "farmId": 4175,
+   "farmType": "Sonali",
+   "region": "Jhenaidah",
+   "territory": "Kushtia",
+   "visits": 4,
+   "avg": 87.5,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Shiful hock",
+   "farmId": 4236,
+   "farmType": "Broiler",
+   "region": "Kishoreganj",
+   "territory": "Kishoreganj 1",
+   "visits": 1,
+   "avg": 87.5,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Siraj",
+   "farmId": 4238,
+   "farmType": "Broiler",
+   "region": "Cumilla",
+   "territory": "Chandina",
+   "visits": 4,
+   "avg": 87.5,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Sadi vai",
+   "farmId": 4248,
+   "farmType": "Broiler",
+   "region": "Cumilla",
+   "territory": "Chandina",
+   "visits": 2,
+   "avg": 87.5,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Murad",
+   "farmId": 4282,
+   "farmType": "Broiler",
+   "region": "Tangail",
+   "territory": "Sherpur",
+   "visits": 1,
+   "avg": 87.5,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Rubel Layer Farm",
+   "farmId": 4328,
+   "farmType": "Layer",
+   "region": "Jhenaidah",
+   "territory": "Chuadanga",
+   "visits": 2,
+   "avg": 87.5,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Sumon station",
+   "farmId": 4330,
+   "farmType": "Broiler",
+   "region": "Sirajganj",
+   "territory": "Sirajganj 2",
+   "visits": 1,
+   "avg": 87.5,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Saiful layer farm",
+   "farmId": 4405,
+   "farmType": "Layer",
+   "region": "Gazipur",
+   "territory": "Savar",
+   "visits": 1,
+   "avg": 87.5,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Abu Hasan Sagor",
+   "farmId": 4415,
+   "farmType": "Sonali",
+   "region": "Bogura",
+   "territory": "Joypurhat",
+   "visits": 3,
+   "avg": 87.5,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Bappi",
+   "farmId": 4423,
+   "farmType": "Broiler",
+   "region": "Mymensingh",
+   "territory": "Netrokona",
+   "visits": 1,
+   "avg": 87.5,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Hasan, kajolgari",
+   "farmId": 4485,
+   "farmType": "Broiler",
+   "region": "Bogura",
+   "territory": "Bogura 2",
+   "visits": 1,
+   "avg": 87.5,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Salim CB farm",
+   "farmId": 4490,
+   "farmType": "Colour",
+   "region": "Gopalgonj",
+   "territory": "Madaripur",
+   "visits": 2,
+   "avg": 87.5,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Immam uddin 1100",
+   "farmId": 4537,
+   "farmType": "Layer",
+   "region": "Kishoreganj",
+   "territory": "Kishoreganj 2",
+   "visits": 1,
+   "avg": 87.5,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Kadir poultry",
+   "farmId": 4545,
+   "farmType": "Broiler",
+   "region": "Mymensingh",
+   "territory": "Fulpur",
+   "visits": 2,
+   "avg": 87.5,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Mahfuz Agro Farm",
+   "farmId": 4552,
+   "farmType": "Broiler",
+   "region": "Barishal",
+   "territory": "Jhalokati",
+   "visits": 2,
+   "avg": 87.5,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Betagi: Kamal bhai-1",
+   "farmId": 4555,
+   "farmType": "Broiler",
+   "region": "Ctg North",
+   "territory": "Hathazari",
+   "visits": 2,
+   "avg": 87.5,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Betagi: Rabiul Farm",
+   "farmId": 4557,
+   "farmType": "Broiler",
+   "region": "Ctg North",
+   "territory": "Hathazari",
+   "visits": 1,
+   "avg": 87.5,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Betagi: Rabiul -Stilt shed",
+   "farmId": 4558,
+   "farmType": "Broiler",
+   "region": "Ctg North",
+   "territory": "Hathazari",
+   "visits": 1,
+   "avg": 87.5,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Sagor Poultry farm",
+   "farmId": 4564,
+   "farmType": "Broiler",
+   "region": "Bogura",
+   "territory": "Naogaon",
+   "visits": 1,
+   "avg": 87.5,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Chapa Colour birds Farm",
+   "farmId": 4569,
+   "farmType": "Colour",
+   "region": "Jhenaidah",
+   "territory": "Chuadanga",
+   "visits": 2,
+   "avg": 87.5,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Rs traders",
+   "farmId": 4573,
+   "farmType": "Broiler",
+   "region": "Bogura",
+   "territory": "Naogaon",
+   "visits": 1,
+   "avg": 87.5,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Dadon broiler farm",
+   "farmId": 4574,
+   "farmType": "Broiler",
+   "region": "Gopalgonj",
+   "territory": "Madaripur",
+   "visits": 1,
+   "avg": 87.5,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Aminul Farm Bildumuria",
+   "farmId": 4581,
+   "farmType": "Broiler",
+   "region": "Barishal",
+   "territory": "Barishal",
+   "visits": 2,
+   "avg": 87.5,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Saidul Farm Bildumuria",
+   "farmId": 4582,
+   "farmType": "Layer",
+   "region": "Barishal",
+   "territory": "Barishal",
+   "visits": 2,
+   "avg": 87.5,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Shimul poultry",
+   "farmId": 4587,
+   "farmType": "Broiler",
+   "region": "Gopalgonj",
+   "territory": "Faridpur",
+   "visits": 1,
+   "avg": 87.5,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Ishak Farm",
+   "farmId": 4605,
+   "farmType": "Broiler",
+   "region": "Narsingdi",
+   "territory": "Shibpur",
+   "visits": 1,
+   "avg": 87.5,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Rupali's Poultry farm",
+   "farmId": 4627,
+   "farmType": "Broiler",
+   "region": "Jhenaidah",
+   "territory": "Chuadanga",
+   "visits": 2,
+   "avg": 87.5,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Rayhan Farm Sholna",
+   "farmId": 4675,
+   "farmType": "Broiler",
+   "region": "Barishal",
+   "territory": "Barishal",
+   "visits": 1,
+   "avg": 87.5,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Murshid mia small janoin",
+   "farmId": 4682,
+   "farmType": "Layer",
+   "region": "Kishoreganj",
+   "territory": "Kishoreganj 2",
+   "visits": 1,
+   "avg": 87.5,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Srabon poultry farm",
+   "farmId": 4688,
+   "farmType": "Colour",
+   "region": "Sirajganj",
+   "territory": "Pabna 1",
+   "visits": 1,
+   "avg": 87.5,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Hridoy layer",
+   "farmId": 4694,
+   "farmType": "Layer",
+   "region": "Gazipur",
+   "territory": "Savar",
+   "visits": 2,
+   "avg": 87.5,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Hridoy layer 02",
+   "farmId": 4695,
+   "farmType": "Layer",
+   "region": "Gazipur",
+   "territory": "Savar",
+   "visits": 2,
+   "avg": 87.5,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Bappy(b)",
+   "farmId": 4738,
+   "farmType": "Broiler",
+   "region": "Jhenaidah",
+   "territory": "Jhenaidah",
+   "visits": 1,
+   "avg": 87.5,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Bappy(cb)",
+   "farmId": 4739,
+   "farmType": "Colour",
+   "region": "Jhenaidah",
+   "territory": "Jhenaidah",
+   "visits": 1,
+   "avg": 87.5,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Mohibul broiler farm",
+   "farmId": 4755,
+   "farmType": "Broiler",
+   "region": "Rangpur",
+   "territory": "Gaibandha",
+   "visits": 1,
+   "avg": 87.5,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Kawsar Farm Chiltala",
+   "farmId": 4772,
+   "farmType": "Layer",
+   "region": "Barishal",
+   "territory": "Barishal",
+   "visits": 1,
+   "avg": 87.5,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Iftehar Bhai Rihan",
+   "farmId": 4774,
+   "farmType": "Broiler",
+   "region": "Ctg South",
+   "territory": "Bashkhali",
+   "visits": 2,
+   "avg": 87.5,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Saju,Salam,1000,Beribad",
+   "farmId": 4806,
+   "farmType": "Broiler",
+   "region": "Sylhet",
+   "territory": "Habiganj",
+   "visits": 1,
+   "avg": 87.5,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Noyon,1700,salam,shaes",
+   "farmId": 4808,
+   "farmType": "Broiler",
+   "region": "Sylhet",
+   "territory": "Habiganj",
+   "visits": 1,
+   "avg": 87.5,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Selim poultry farm",
+   "farmId": 4810,
+   "farmType": "Broiler",
+   "region": "Tangail",
+   "territory": "Tangail",
+   "visits": 1,
+   "avg": 87.5,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Kokhon mia 1420",
+   "farmId": 4827,
+   "farmType": "Layer",
+   "region": "Kishoreganj",
+   "territory": "Kishoreganj 1",
+   "visits": 1,
+   "avg": 87.5,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Aboul kasam",
+   "farmId": 4834,
+   "farmType": "Broiler",
+   "region": "Kishoreganj",
+   "territory": "Kishoreganj 1",
+   "visits": 1,
+   "avg": 87.5,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Tara nia",
+   "farmId": 4857,
+   "farmType": "Broiler",
+   "region": "Mymensingh",
+   "territory": "Mymensingh",
+   "visits": 1,
+   "avg": 87.5,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Sahed Hasan (Layer)",
+   "farmId": 4882,
+   "farmType": "Layer",
+   "region": "Jhenaidah",
+   "territory": "Kushtia",
+   "visits": 2,
+   "avg": 87.5,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Khorshed bhai-Amirhat",
+   "farmId": 4889,
+   "farmType": "Broiler",
+   "region": "Ctg North",
+   "territory": "Hathazari",
+   "visits": 1,
+   "avg": 87.5,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Felu",
+   "farmId": 4940,
+   "farmType": "Layer",
+   "region": "Rajshahi",
+   "territory": "Rajshahi",
+   "visits": 1,
+   "avg": 87.5,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Mijanur",
+   "farmId": 4989,
+   "farmType": "Broiler",
+   "region": "Jhenaidah",
+   "territory": "Jhenaidah",
+   "visits": 1,
+   "avg": 87.5,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Parvej poultry farm",
+   "farmId": 5003,
+   "farmType": "Colour",
+   "region": "Dinajpur",
+   "territory": "Dinajpur",
+   "visits": 1,
+   "avg": 87.5,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Shorif-Hatramchondeopur",
+   "farmId": 5006,
+   "farmType": "Layer",
+   "region": "Rajshahi",
+   "territory": "Rajshahi",
+   "visits": 1,
+   "avg": 87.5,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Sohorab-Alipur",
+   "farmId": 5016,
+   "farmType": "Layer",
+   "region": "Rajshahi",
+   "territory": "Rajshahi",
+   "visits": 2,
+   "avg": 87.5,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Akher member kanpara",
+   "farmId": 5017,
+   "farmType": "Layer",
+   "region": "Rajshahi",
+   "territory": "Rajshahi",
+   "visits": 4,
+   "avg": 87.5,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Shiful Islam New 2",
+   "farmId": 5041,
+   "farmType": "Layer",
+   "region": "Kishoreganj",
+   "territory": "Kishoreganj 2",
+   "visits": 1,
+   "avg": 87.5,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Kawsar Agro Farm (Soratola, Narail)",
+   "farmId": 5053,
+   "farmType": "Broiler",
+   "region": "Khulna",
+   "territory": "Jashore",
+   "visits": 1,
+   "avg": 87.5,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Abul basar sahebnagar",
+   "farmId": 5076,
+   "farmType": "Colour",
+   "region": "Cumilla",
+   "territory": "Chandina",
+   "visits": 1,
+   "avg": 87.5,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Sohail Bhai",
+   "farmId": 1103,
+   "farmType": "Layer",
+   "region": "Cumilla",
+   "territory": "Chandina",
+   "visits": 2,
+   "avg": 86.6,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Abdul Kader",
+   "farmId": 4422,
+   "farmType": "Colour",
+   "region": "Jhenaidah",
+   "territory": "Jhenaidah",
+   "visits": 5,
+   "avg": 86.3,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Bisharot ali",
+   "farmId": 1314,
+   "farmType": "Broiler",
+   "region": "Jhenaidah",
+   "territory": "Chuadanga",
+   "visits": 9,
+   "avg": 86.1,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Anar Poultry farm",
+   "farmId": 1407,
+   "farmType": "Broiler",
+   "region": "Jhenaidah",
+   "territory": "Chuadanga",
+   "visits": 4,
+   "avg": 86,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Md Monirul islam",
+   "farmId": 2781,
+   "farmType": "Sonali",
+   "region": "Jhenaidah",
+   "territory": "Kushtia",
+   "visits": 3,
+   "avg": 85.5,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Nasiruddin ( Broiler)",
+   "farmId": 4674,
+   "farmType": "Broiler",
+   "region": "Jhenaidah",
+   "territory": "Kushtia",
+   "visits": 3,
+   "avg": 85.5,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Bisharot poultry farm",
+   "farmId": 1320,
+   "farmType": "Broiler",
+   "region": "Jhenaidah",
+   "territory": "Chuadanga",
+   "visits": 3,
+   "avg": 85.4,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Joy duck farm,Pirgang",
+   "farmId": 3969,
+   "farmType": "Duck",
+   "region": "Dinajpur",
+   "territory": "Thakurgaon",
+   "visits": 3,
+   "avg": 85.4,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Emon 02",
+   "farmId": 4366,
+   "farmType": "Colour",
+   "region": "Sirajganj",
+   "territory": "Sirajganj 1",
+   "visits": 3,
+   "avg": 85.4,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Arif Farm Zianagar",
+   "farmId": 4553,
+   "farmType": "Broiler",
+   "region": "Barishal",
+   "territory": "Jhalokati",
+   "visits": 3,
+   "avg": 85.4,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Rubel Farm Kawnia",
+   "farmId": 4637,
+   "farmType": "Broiler",
+   "region": "Barishal",
+   "territory": "Barishal",
+   "visits": 3,
+   "avg": 85.4,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Md.rasel",
+   "farmId": 4081,
+   "farmType": "Broiler",
+   "region": "Cumilla",
+   "territory": "Chandina",
+   "visits": 3,
+   "avg": 85,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Naznin Nahar",
+   "farmId": 4659,
+   "farmType": "Layer",
+   "region": "Khulna",
+   "territory": "Khulna-1",
+   "visits": 2,
+   "avg": 84.5,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Kamal Agro Farm",
+   "farmId": 1953,
+   "farmType": "Broiler",
+   "region": "Khulna",
+   "territory": "Jashore",
+   "visits": 6,
+   "avg": 84.4,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Nazib Nuahat",
+   "farmId": 3008,
+   "farmType": "Broiler",
+   "region": "Ctg North",
+   "territory": "Hathazari",
+   "visits": 2,
+   "avg": 84.4,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Mostakin layer farm",
+   "farmId": 3083,
+   "farmType": "Layer",
+   "region": "Sirajganj",
+   "territory": "Pabna 1",
+   "visits": 2,
+   "avg": 84.4,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Rezaul Layer farm",
+   "farmId": 3987,
+   "farmType": "Layer",
+   "region": "Sirajganj",
+   "territory": "Pabna 1",
+   "visits": 2,
+   "avg": 84.4,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Md.Arif BDR",
+   "farmId": 4047,
+   "farmType": "Sonali",
+   "region": "Bogura",
+   "territory": "Joypurhat",
+   "visits": 2,
+   "avg": 84.4,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Imran novogram",
+   "farmId": 4329,
+   "farmType": "Colour",
+   "region": "Sirajganj",
+   "territory": "Sirajganj 2",
+   "visits": 2,
+   "avg": 84.4,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Obed",
+   "farmId": 1833,
+   "farmType": "Sonali",
+   "region": "Jhenaidah",
+   "territory": "Jhenaidah",
+   "visits": 5,
+   "avg": 83.8,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Manik rafardia",
+   "farmId": 4477,
+   "farmType": "Colour",
+   "region": "Cumilla",
+   "territory": "Daudkandi",
+   "visits": 2,
+   "avg": 83.8,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Nahim Poultry Farm",
+   "farmId": 784,
+   "farmType": "Broiler",
+   "region": "Noakhali",
+   "territory": "Feni 1",
+   "visits": 3,
+   "avg": 83.4,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Bhai Bhai poultry farm-1",
+   "farmId": 1888,
+   "farmType": "Layer",
+   "region": "Sirajganj",
+   "territory": "Pabna 1",
+   "visits": 3,
+   "avg": 83.4,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Jony poultry farm",
+   "farmId": 2898,
+   "farmType": "Broiler",
+   "region": "Sirajganj",
+   "territory": "Pabna 1",
+   "visits": 3,
+   "avg": 83.4,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Momin sekh (Broiler)",
+   "farmId": 4448,
+   "farmType": "Broiler",
+   "region": "Jhenaidah",
+   "territory": "Kushtia",
+   "visits": 3,
+   "avg": 83.4,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Bristy poultry farm",
+   "farmId": 4665,
+   "farmType": "Broiler",
+   "region": "Jhenaidah",
+   "territory": "Chuadanga",
+   "visits": 3,
+   "avg": 83.4,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Nazmul Layer farm",
+   "farmId": 3935,
+   "farmType": "Layer",
+   "region": "Sirajganj",
+   "territory": "Pabna 1",
+   "visits": 4,
+   "avg": 82.9,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Saju",
+   "farmId": 272,
+   "farmType": "Broiler",
+   "region": "Bogura",
+   "territory": "Naogaon",
+   "visits": 1,
+   "avg": 81.3,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Hasan Layer farm",
+   "farmId": 532,
+   "farmType": "Layer",
+   "region": "Gazipur",
+   "territory": "Savar",
+   "visits": 2,
+   "avg": 81.3,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Sajib Agro",
+   "farmId": 563,
+   "farmType": "Layer",
+   "region": "Dinajpur",
+   "territory": "Nilphamari",
+   "visits": 2,
+   "avg": 81.3,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Ziaur Agro Farm",
+   "farmId": 590,
+   "farmType": "Sonali",
+   "region": "Bogura",
+   "territory": "Naogaon",
+   "visits": 2,
+   "avg": 81.3,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Asif Agro",
+   "farmId": 596,
+   "farmType": "Broiler",
+   "region": "Khulna",
+   "territory": "Jashore",
+   "visits": 2,
+   "avg": 81.3,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Helal vai paharer uporer farm",
+   "farmId": 748,
+   "farmType": "Broiler",
+   "region": "Ctg South",
+   "territory": "Satkania",
+   "visits": 2,
+   "avg": 81.3,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Habib 2",
+   "farmId": 871,
+   "farmType": "Broiler",
+   "region": "Khulna",
+   "territory": "Bagerhat",
+   "visits": 1,
+   "avg": 81.3,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Nakul Poultry",
+   "farmId": 890,
+   "farmType": "Layer",
+   "region": "Noakhali",
+   "territory": "Feni 1",
+   "visits": 1,
+   "avg": 81.3,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Shariful 001",
+   "farmId": 1050,
+   "farmType": "Broiler",
+   "region": "Sirajganj",
+   "territory": "Sirajganj 2",
+   "visits": 1,
+   "avg": 81.3,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Alomgir poultry farm",
+   "farmId": 1880,
+   "farmType": "Broiler",
+   "region": "Sirajganj",
+   "territory": "Pabna 1",
+   "visits": 1,
+   "avg": 81.3,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Mosa poultry farm",
+   "farmId": 1882,
+   "farmType": "Broiler",
+   "region": "Sirajganj",
+   "territory": "Pabna 1",
+   "visits": 4,
+   "avg": 81.3,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Toufikul poultry farm",
+   "farmId": 1935,
+   "farmType": "Broiler",
+   "region": "Jhenaidah",
+   "territory": "Chuadanga",
+   "visits": 1,
+   "avg": 81.3,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Sohel Ahommed",
+   "farmId": 2182,
+   "farmType": "Broiler",
+   "region": "Jhenaidah",
+   "territory": "Kushtia",
+   "visits": 1,
+   "avg": 81.3,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "MD .Sohel Rana",
+   "farmId": 2186,
+   "farmType": "Broiler",
+   "region": "Jhenaidah",
+   "territory": "Kushtia",
+   "visits": 1,
+   "avg": 81.3,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Asha poultry farm, Dehati",
+   "farmId": 2193,
+   "farmType": "Broiler",
+   "region": "Jhenaidah",
+   "territory": "Chuadanga",
+   "visits": 2,
+   "avg": 81.3,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "MD Ashik Sekh",
+   "farmId": 2230,
+   "farmType": "Broiler",
+   "region": "Jhenaidah",
+   "territory": "Kushtia",
+   "visits": 1,
+   "avg": 81.3,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Forhad Sarkar (Charfasion) - Layer",
+   "farmId": 2420,
+   "farmType": "Layer",
+   "region": "Barishal",
+   "territory": "Bhula",
+   "visits": 2,
+   "avg": 81.3,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "CSRM",
+   "farmId": 2451,
+   "farmType": "Layer",
+   "region": "Tangail",
+   "territory": "Modhupur",
+   "visits": 1,
+   "avg": 81.3,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Halim bohuli",
+   "farmId": 2574,
+   "farmType": "Colour",
+   "region": "Sirajganj",
+   "territory": "Sirajganj 1",
+   "visits": 2,
+   "avg": 81.3,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Sonali farm Milon",
+   "farmId": 2635,
+   "farmType": "Sonali",
+   "region": "Bogura",
+   "territory": "Naogaon",
+   "visits": 2,
+   "avg": 81.3,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Aminul layer farm",
+   "farmId": 2757,
+   "farmType": "Layer",
+   "region": "Sirajganj",
+   "territory": "Pabna 1",
+   "visits": 1,
+   "avg": 81.3,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Munnu poultry farm",
+   "farmId": 2866,
+   "farmType": "Sonali",
+   "region": "Bogura",
+   "territory": "Joypurhat",
+   "visits": 1,
+   "avg": 81.3,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Munna broiler farm",
+   "farmId": 2894,
+   "farmType": "Broiler",
+   "region": "Gopalgonj",
+   "territory": "Madaripur",
+   "visits": 3,
+   "avg": 81.3,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Shimul poultry farm",
+   "farmId": 3176,
+   "farmType": "Layer",
+   "region": "Sirajganj",
+   "territory": "Pabna 1",
+   "visits": 7,
+   "avg": 81.3,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Kamal,Borkota,1000",
+   "farmId": 3707,
+   "farmType": "Broiler",
+   "region": "Sylhet",
+   "territory": "Habiganj",
+   "visits": 1,
+   "avg": 81.3,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Raihan poultry farm ( Hanurbaradi)",
+   "farmId": 3862,
+   "farmType": "Colour",
+   "region": "Jhenaidah",
+   "territory": "Chuadanga",
+   "visits": 2,
+   "avg": 81.3,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Apon 01",
+   "farmId": 3950,
+   "farmType": "Sonali",
+   "region": "Sirajganj",
+   "territory": "Sirajganj 2",
+   "visits": 2,
+   "avg": 81.3,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Jamal 2",
+   "farmId": 4170,
+   "farmType": "Broiler",
+   "region": "Tangail",
+   "territory": "Jamalpur",
+   "visits": 1,
+   "avg": 81.3,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Shapon color bird farm",
+   "farmId": 4178,
+   "farmType": "Colour",
+   "region": "Gopalgonj",
+   "territory": "Madaripur",
+   "visits": 1,
+   "avg": 81.3,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Mamun broiler farm",
+   "farmId": 4194,
+   "farmType": "Broiler",
+   "region": "Bogura",
+   "territory": "Naogaon",
+   "visits": 1,
+   "avg": 81.3,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Rubel, Boroitoli",
+   "farmId": 4269,
+   "farmType": "Broiler",
+   "region": "Ctg South",
+   "territory": "Cox's Bazar 1",
+   "visits": 1,
+   "avg": 81.3,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Masud",
+   "farmId": 4357,
+   "farmType": "Broiler",
+   "region": "Tangail",
+   "territory": "Sherpur",
+   "visits": 1,
+   "avg": 81.3,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Rezaul islam",
+   "farmId": 4528,
+   "farmType": "Layer",
+   "region": "Sirajganj",
+   "territory": "Pabna 1",
+   "visits": 2,
+   "avg": 81.3,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Member-Jashim",
+   "farmId": 4592,
+   "farmType": "Broiler",
+   "region": "Ctg North",
+   "territory": "Hathazari",
+   "visits": 2,
+   "avg": 81.3,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Ronjit, boroitoli",
+   "farmId": 4699,
+   "farmType": "Broiler",
+   "region": "Ctg South",
+   "territory": "Cox's Bazar 1",
+   "visits": 2,
+   "avg": 81.3,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Munna broiler farm",
+   "farmId": 4701,
+   "farmType": "Broiler",
+   "region": "Gopalgonj",
+   "territory": "Madaripur",
+   "visits": 3,
+   "avg": 81.3,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Emon (Chopol vi broiler)",
+   "farmId": 4716,
+   "farmType": "Broiler",
+   "region": "Jhenaidah",
+   "territory": "Kushtia",
+   "visits": 1,
+   "avg": 81.3,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Asad poultry farm",
+   "farmId": 4839,
+   "farmType": "Colour",
+   "region": "Dinajpur",
+   "territory": "Dinajpur",
+   "visits": 2,
+   "avg": 81.3,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Shohidul Poultry",
+   "farmId": 4868,
+   "farmType": "Layer",
+   "region": "Rajshahi",
+   "territory": "Rajshahi",
+   "visits": 1,
+   "avg": 81.3,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Rasedul Islam",
+   "farmId": 4902,
+   "farmType": "Colour",
+   "region": "Rajshahi",
+   "territory": "Rajshahi",
+   "visits": 1,
+   "avg": 81.3,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Rajon broiler farm",
+   "farmId": 4962,
+   "farmType": "Broiler",
+   "region": "Gopalgonj",
+   "territory": "Madaripur",
+   "visits": 1,
+   "avg": 81.3,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Sabor",
+   "farmId": 4977,
+   "farmType": "Layer",
+   "region": "Rajshahi",
+   "territory": "Rajshahi",
+   "visits": 2,
+   "avg": 81.3,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Johurul CB",
+   "farmId": 5029,
+   "farmType": "Colour",
+   "region": "Jhenaidah",
+   "territory": "Kushtia",
+   "visits": 1,
+   "avg": 81.3,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Mojid 01",
+   "farmId": 5035,
+   "farmType": "Colour",
+   "region": "Sirajganj",
+   "territory": "Sirajganj 1",
+   "visits": 1,
+   "avg": 81.3,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Rahmat ullah poultry",
+   "farmId": 5077,
+   "farmType": "Broiler",
+   "region": "Mymensingh",
+   "territory": "Netrokona",
+   "visits": 1,
+   "avg": 81.3,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Naimul Haque poultry farm",
+   "farmId": 1442,
+   "farmType": "Broiler",
+   "region": "Jhenaidah",
+   "territory": "Chuadanga",
+   "visits": 6,
+   "avg": 80.2,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Momin chaparhat",
+   "farmId": 959,
+   "farmType": "Broiler",
+   "region": "Rangpur",
+   "territory": "Lalmonirhat",
+   "visits": 5,
+   "avg": 80,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Sahin katalikanda",
+   "farmId": 1690,
+   "farmType": "Broiler",
+   "region": "Cumilla",
+   "territory": "Chandina",
+   "visits": 3,
+   "avg": 80,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Nannu Farm",
+   "farmId": 4530,
+   "farmType": "Sonali",
+   "region": "Gopalgonj",
+   "territory": "Faridpur",
+   "visits": 1,
+   "avg": 80,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Jafar chy-Amirhat",
+   "farmId": 4890,
+   "farmType": "Broiler",
+   "region": "Ctg North",
+   "territory": "Hathazari",
+   "visits": 1,
+   "avg": 80,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Rasel",
+   "farmId": 4975,
+   "farmType": "Layer",
+   "region": "Rajshahi",
+   "territory": "Rajshahi",
+   "visits": 4,
+   "avg": 80,
+   "band": "Green · A"
+  },
+  {
+   "farmName": "Motiar poultry farm",
+   "farmId": 2070,
+   "farmType": "Sonali",
+   "region": "Bogura",
+   "territory": "Joypurhat",
+   "visits": 4,
+   "avg": 79.7,
+   "band": "Yellow · B"
+  },
+  {
+   "farmName": "Shakib Poultry Farm",
+   "farmId": 4560,
+   "farmType": "Broiler",
+   "region": "Rangpur",
+   "territory": "Lalmonirhat",
+   "visits": 4,
+   "avg": 79.7,
+   "band": "Yellow · B"
+  },
+  {
+   "farmName": "Sourav",
+   "farmId": 575,
+   "farmType": "Layer",
+   "region": "Jhenaidah",
+   "territory": "Jhenaidah",
+   "visits": 3,
+   "avg": 79.2,
+   "band": "Yellow · B"
+  },
+  {
+   "farmName": "Ramjan farm 1",
+   "farmId": 1994,
+   "farmType": "Layer",
+   "region": "Kishoreganj",
+   "territory": "Kishoreganj 2",
+   "visits": 3,
+   "avg": 79.2,
+   "band": "Yellow · B"
+  },
+  {
+   "farmName": "Rasedul Islam",
+   "farmId": 4901,
+   "farmType": "Layer",
+   "region": "Rajshahi",
+   "territory": "Rajshahi",
+   "visits": 3,
+   "avg": 79.2,
+   "band": "Yellow · B"
+  },
+  {
+   "farmName": "Redoy",
+   "farmId": 3696,
+   "farmType": "Broiler",
+   "region": "Narsingdi",
+   "territory": "Shibpur",
+   "visits": 8,
+   "avg": 78.9,
+   "band": "Yellow · B"
+  },
+  {
+   "farmName": "Md.Musa vai",
+   "farmId": 3731,
+   "farmType": "Colour",
+   "region": "Cumilla",
+   "territory": "Daudkandi",
+   "visits": 2,
+   "avg": 78.8,
+   "band": "Yellow · B"
+  },
+  {
+   "farmName": "Masud",
+   "farmId": 4988,
+   "farmType": "Layer",
+   "region": "Dinajpur",
+   "territory": "Dinajpur",
+   "visits": 1,
+   "avg": 78.6,
+   "band": "Yellow · B"
+  },
+  {
+   "farmName": "Monir Agro",
+   "farmId": 373,
+   "farmType": "Layer",
+   "region": "Khulna",
+   "territory": "Jashore",
+   "visits": 2,
+   "avg": 78.2,
+   "band": "Yellow · B"
+  },
+  {
+   "farmName": "Farid",
+   "farmId": 844,
+   "farmType": "Layer",
+   "region": "Barishal",
+   "territory": "Bhula",
+   "visits": 2,
+   "avg": 78.2,
+   "band": "Yellow · B"
+  },
+  {
+   "farmName": "Rasel farm",
+   "farmId": 1490,
+   "farmType": "Broiler",
+   "region": "Gopalgonj",
+   "territory": "Faridpur",
+   "visits": 2,
+   "avg": 78.2,
+   "band": "Yellow · B"
+  },
+  {
+   "farmName": "Alamin 02",
+   "farmId": 1717,
+   "farmType": "Broiler",
+   "region": "Sirajganj",
+   "territory": "Sirajganj 2",
+   "visits": 2,
+   "avg": 78.2,
+   "band": "Yellow · B"
+  },
+  {
+   "farmName": "Hanif bramongathi",
+   "farmId": 2694,
+   "farmType": "Broiler",
+   "region": "Sirajganj",
+   "territory": "Sirajganj 1",
+   "visits": 4,
+   "avg": 78.2,
+   "band": "Yellow · B"
+  },
+  {
+   "farmName": "Mamun, barahatia",
+   "farmId": 3063,
+   "farmType": "Broiler",
+   "region": "Ctg South",
+   "territory": "Satkania",
+   "visits": 2,
+   "avg": 78.2,
+   "band": "Yellow · B"
+  },
+  {
+   "farmName": "Ab mannan poultry farm",
+   "farmId": 3225,
+   "farmType": "Broiler",
+   "region": "Dinajpur",
+   "territory": "Dinajpur",
+   "visits": 2,
+   "avg": 78.2,
+   "band": "Yellow · B"
+  },
+  {
+   "farmName": "Canuyar",
+   "farmId": 3312,
+   "farmType": "Layer",
+   "region": "Tangail",
+   "territory": "Sherpur",
+   "visits": 2,
+   "avg": 78.2,
+   "band": "Yellow · B"
+  },
+  {
+   "farmName": "Mujahid",
+   "farmId": 4136,
+   "farmType": "Broiler",
+   "region": "Jhenaidah",
+   "territory": "Jhenaidah",
+   "visits": 2,
+   "avg": 78.2,
+   "band": "Yellow · B"
+  },
+  {
+   "farmName": "Rahul da, boroitoli",
+   "farmId": 4698,
+   "farmType": "Broiler",
+   "region": "Ctg South",
+   "territory": "Cox's Bazar 1",
+   "visits": 2,
+   "avg": 78.2,
+   "band": "Yellow · B"
+  },
+  {
+   "farmName": "Shakil (ব্রয়লার)",
+   "farmId": 4893,
+   "farmType": "Broiler",
+   "region": "Jhenaidah",
+   "territory": "Kushtia",
+   "visits": 2,
+   "avg": 78.2,
+   "band": "Yellow · B"
+  },
+  {
+   "farmName": "Razzaq Poultry Farm",
+   "farmId": 5069,
+   "farmType": "Broiler",
+   "region": "Bogura",
+   "territory": "Naogaon",
+   "visits": 2,
+   "avg": 78.2,
+   "band": "Yellow · B"
+  },
+  {
+   "farmName": "Arif Farm Goma",
+   "farmId": 559,
+   "farmType": "Broiler",
+   "region": "Barishal",
+   "territory": "Barishal",
+   "visits": 6,
+   "avg": 77.1,
+   "band": "Yellow · B"
+  },
+  {
+   "farmName": "Md Nishan",
+   "farmId": 3265,
+   "farmType": "Colour",
+   "region": "Jhenaidah",
+   "territory": "Kushtia",
+   "visits": 3,
+   "avg": 77.1,
+   "band": "Yellow · B"
+  },
+  {
+   "farmName": "Atiar",
+   "farmId": 357,
+   "farmType": "Layer",
+   "region": "Jhenaidah",
+   "territory": "Jhenaidah",
+   "visits": 4,
+   "avg": 76.6,
+   "band": "Yellow · B"
+  },
+  {
+   "farmName": "Ruhul amin Daily and Hathary",
+   "farmId": 3988,
+   "farmType": "Colour",
+   "region": "Dinajpur",
+   "territory": "Thakurgaon",
+   "visits": 4,
+   "avg": 76.6,
+   "band": "Yellow · B"
+  },
+  {
+   "farmName": "Ali ahmed",
+   "farmId": 2150,
+   "farmType": "Layer",
+   "region": "Ctg South",
+   "territory": "Cox's Bazar 2",
+   "visits": 9,
+   "avg": 75.7,
+   "band": "Yellow · B"
+  },
+  {
+   "farmName": "Sobuj Agro farm",
+   "farmId": 350,
+   "farmType": "Broiler",
+   "region": "Khulna",
+   "territory": "Jashore",
+   "visits": 1,
+   "avg": 75,
+   "band": "Yellow · B"
+  },
+  {
+   "farmName": "Bappi Agro farm",
+   "farmId": 363,
+   "farmType": "Colour",
+   "region": "Khulna",
+   "territory": "Jashore",
+   "visits": 1,
+   "avg": 75,
+   "band": "Yellow · B"
+  },
+  {
+   "farmName": "Paragao Layer Farm",
+   "farmId": 510,
+   "farmType": "Layer",
+   "region": "Narayanganj",
+   "territory": "Narayanganj",
+   "visits": 1,
+   "avg": 75,
+   "band": "Yellow · B"
+  },
+  {
+   "farmName": "Helal vai lomba farm",
+   "farmId": 713,
+   "farmType": "Colour",
+   "region": "Ctg South",
+   "territory": "Satkania",
+   "visits": 2,
+   "avg": 75,
+   "band": "Yellow · B"
+  },
+  {
+   "farmName": "Jakaria vai layer farm",
+   "farmId": 735,
+   "farmType": "Layer",
+   "region": "Ctg South",
+   "territory": "Satkania",
+   "visits": 2,
+   "avg": 75,
+   "band": "Yellow · B"
+  },
+  {
+   "farmName": "Rifat",
+   "farmId": 740,
+   "farmType": "Layer",
+   "region": "Ctg South",
+   "territory": "Cox's Bazar 2",
+   "visits": 6,
+   "avg": 75,
+   "band": "Yellow · B"
+  },
+  {
+   "farmName": "kolimullah",
+   "farmId": 741,
+   "farmType": "Layer",
+   "region": "Ctg South",
+   "territory": "Cox's Bazar 2",
+   "visits": 3,
+   "avg": 75,
+   "band": "Yellow · B"
+  },
+  {
+   "farmName": "Amzad barahatia farm",
+   "farmId": 775,
+   "farmType": "Broiler",
+   "region": "Ctg South",
+   "territory": "Satkania",
+   "visits": 1,
+   "avg": 75,
+   "band": "Yellow · B"
+  },
+  {
+   "farmName": "Abir",
+   "farmId": 840,
+   "farmType": "Layer",
+   "region": "Barishal",
+   "territory": "Bhula",
+   "visits": 1,
+   "avg": 75,
+   "band": "Yellow · B"
+  },
+  {
+   "farmName": "Rayhan",
+   "farmId": 942,
+   "farmType": "Layer",
+   "region": "Ctg South",
+   "territory": "Cox's Bazar 2",
+   "visits": 1,
+   "avg": 75,
+   "band": "Yellow · B"
+  },
+  {
+   "farmName": "Jakir",
+   "farmId": 962,
+   "farmType": "Layer",
+   "region": "Barishal",
+   "territory": "Bhula",
+   "visits": 2,
+   "avg": 75,
+   "band": "Yellow · B"
+  },
+  {
+   "farmName": "Sakhawat 01",
+   "farmId": 1176,
+   "farmType": "Sonali",
+   "region": "Sirajganj",
+   "territory": "Sirajganj 2",
+   "visits": 1,
+   "avg": 75,
+   "band": "Yellow · B"
+  },
+  {
+   "farmName": "Kanchon (HuB -K)",
+   "farmId": 1742,
+   "farmType": "Layer",
+   "region": "Barishal",
+   "territory": "Bhula",
+   "visits": 1,
+   "avg": 75,
+   "band": "Yellow · B"
+  },
+  {
+   "farmName": "Sajid Agro Farm",
+   "farmId": 1874,
+   "farmType": "Duck",
+   "region": "Dinajpur",
+   "territory": "Nilphamari",
+   "visits": 3,
+   "avg": 75,
+   "band": "Yellow · B"
+  },
+  {
+   "farmName": "Mohammad Ali",
+   "farmId": 2029,
+   "farmType": "Layer",
+   "region": "Barishal",
+   "territory": "Bhula",
+   "visits": 2,
+   "avg": 75,
+   "band": "Yellow · B"
+  },
+  {
+   "farmName": "Masum billah",
+   "farmId": 2328,
+   "farmType": "Broiler",
+   "region": "Dinajpur",
+   "territory": "Nilphamari",
+   "visits": 7,
+   "avg": 75,
+   "band": "Yellow · B"
+  },
+  {
+   "farmName": "Rahim poultry",
+   "farmId": 2340,
+   "farmType": "Broiler",
+   "region": "Dinajpur",
+   "territory": "Nilphamari",
+   "visits": 1,
+   "avg": 75,
+   "band": "Yellow · B"
+  },
+  {
+   "farmName": "Raju Agro farm",
+   "farmId": 2359,
+   "farmType": "Colour",
+   "region": "Khulna",
+   "territory": "Jashore",
+   "visits": 3,
+   "avg": 75,
+   "band": "Yellow · B"
+  },
+  {
+   "farmName": "Majid Kaka",
+   "farmId": 2556,
+   "farmType": "Broiler",
+   "region": "Narayanganj",
+   "territory": "Narayanganj",
+   "visits": 1,
+   "avg": 75,
+   "band": "Yellow · B"
+  },
+  {
+   "farmName": "Rihan Poultry",
+   "farmId": 2563,
+   "farmType": "Broiler",
+   "region": "Ctg South",
+   "territory": "Bashkhali",
+   "visits": 1,
+   "avg": 75,
+   "band": "Yellow · B"
+  },
+  {
+   "farmName": "Hasan Vai[MH]",
+   "farmId": 2651,
+   "farmType": "Layer",
+   "region": "Barishal",
+   "territory": "Bhula",
+   "visits": 1,
+   "avg": 75,
+   "band": "Yellow · B"
+  },
+  {
+   "farmName": "Ikbal Bepari[BP]",
+   "farmId": 2916,
+   "farmType": "Layer",
+   "region": "Barishal",
+   "territory": "Bhula",
+   "visits": 1,
+   "avg": 75,
+   "band": "Yellow · B"
+  },
+  {
+   "farmName": "Anowar poultry farm",
+   "farmId": 3077,
+   "farmType": "Layer",
+   "region": "Sirajganj",
+   "territory": "Pabna 2",
+   "visits": 1,
+   "avg": 75,
+   "band": "Yellow · B"
+  },
+  {
+   "farmName": "Noyon",
+   "farmId": 3264,
+   "farmType": "Layer",
+   "region": "Tangail",
+   "territory": "Sherpur",
+   "visits": 2,
+   "avg": 75,
+   "band": "Yellow · B"
+  },
+  {
+   "farmName": "Saiful Poultry-2",
+   "farmId": 3561,
+   "farmType": "Layer",
+   "region": "Gopalgonj",
+   "territory": "Faridpur",
+   "visits": 2,
+   "avg": 75,
+   "band": "Yellow · B"
+  },
+  {
+   "farmName": "Ashu",
+   "farmId": 3653,
+   "farmType": "Broiler",
+   "region": "Tangail",
+   "territory": "Sherpur",
+   "visits": 1,
+   "avg": 75,
+   "band": "Yellow · B"
+  },
+  {
+   "farmName": "Piplu Poultry Farm",
+   "farmId": 3688,
+   "farmType": "Broiler",
+   "region": "Bogura",
+   "territory": "Naogaon",
+   "visits": 1,
+   "avg": 75,
+   "band": "Yellow · B"
+  },
+  {
+   "farmName": "Jamal",
+   "farmId": 3754,
+   "farmType": "Broiler",
+   "region": "Tangail",
+   "territory": "Jamalpur",
+   "visits": 1,
+   "avg": 75,
+   "band": "Yellow · B"
+  },
+  {
+   "farmName": "Helal poultry",
+   "farmId": 3777,
+   "farmType": "Broiler",
+   "region": "Gopalgonj",
+   "territory": "Faridpur",
+   "visits": 1,
+   "avg": 75,
+   "band": "Yellow · B"
+  },
+  {
+   "farmName": "Rasel hatchary",
+   "farmId": 3791,
+   "farmType": "Broiler",
+   "region": "Gopalgonj",
+   "territory": "Faridpur",
+   "visits": 3,
+   "avg": 75,
+   "band": "Yellow · B"
+  },
+  {
+   "farmName": "Bappi Poultry",
+   "farmId": 3812,
+   "farmType": "Broiler",
+   "region": "Gopalgonj",
+   "territory": "Faridpur",
+   "visits": 1,
+   "avg": 75,
+   "band": "Yellow · B"
+  },
+  {
+   "farmName": "Md.Rukon",
+   "farmId": 3836,
+   "farmType": "Broiler",
+   "region": "Cumilla",
+   "territory": "Daudkandi",
+   "visits": 1,
+   "avg": 75,
+   "band": "Yellow · B"
+  },
+  {
+   "farmName": "Safiqul poultry colour bird",
+   "farmId": 3863,
+   "farmType": "Colour",
+   "region": "Dinajpur",
+   "territory": "Nilphamari",
+   "visits": 1,
+   "avg": 75,
+   "band": "Yellow · B"
+  },
+  {
+   "farmName": "Alamin Agro farm",
+   "farmId": 3961,
+   "farmType": "Colour",
+   "region": "Khulna",
+   "territory": "Jashore",
+   "visits": 2,
+   "avg": 75,
+   "band": "Yellow · B"
+  },
+  {
+   "farmName": "Md.saidur rahman",
+   "farmId": 4024,
+   "farmType": "Broiler",
+   "region": "Cumilla",
+   "territory": "Daudkandi",
+   "visits": 1,
+   "avg": 75,
+   "band": "Yellow · B"
+  },
+  {
+   "farmName": "Ruhul amin dairy & poultry farm, velatoir",
+   "farmId": 4028,
+   "farmType": "Broiler",
+   "region": "Dinajpur",
+   "territory": "Thakurgaon",
+   "visits": 1,
+   "avg": 75,
+   "band": "Yellow · B"
+  },
+  {
+   "farmName": "Alomgir",
+   "farmId": 4034,
+   "farmType": "Layer",
+   "region": "Cumilla",
+   "territory": "Daudkandi",
+   "visits": 2,
+   "avg": 75,
+   "band": "Yellow · B"
+  },
+  {
+   "farmName": "Obaydullah",
+   "farmId": 4177,
+   "farmType": "Broiler",
+   "region": "Jhenaidah",
+   "territory": "Jhenaidah",
+   "visits": 1,
+   "avg": 75,
+   "band": "Yellow · B"
+  },
+  {
+   "farmName": "Saidur Hatchary",
+   "farmId": 4265,
+   "farmType": "Broiler",
+   "region": "Gopalgonj",
+   "territory": "Faridpur",
+   "visits": 1,
+   "avg": 75,
+   "band": "Yellow · B"
+  },
+  {
+   "farmName": "Jillur Poultry",
+   "farmId": 4404,
+   "farmType": "Broiler",
+   "region": "Gopalgonj",
+   "territory": "Faridpur",
+   "visits": 1,
+   "avg": 75,
+   "band": "Yellow · B"
+  },
+  {
+   "farmName": "Hasan",
+   "farmId": 4476,
+   "farmType": "Layer",
+   "region": "Jhenaidah",
+   "territory": "Jhenaidah",
+   "visits": 1,
+   "avg": 75,
+   "band": "Yellow · B"
+  },
+  {
+   "farmName": "Mahadi Agro Farm",
+   "farmId": 4512,
+   "farmType": "Layer",
+   "region": "Barishal",
+   "territory": "Bhula",
+   "visits": 1,
+   "avg": 75,
+   "band": "Yellow · B"
+  },
+  {
+   "farmName": "Nannu Poultry",
+   "farmId": 4527,
+   "farmType": "Broiler",
+   "region": "Gopalgonj",
+   "territory": "Faridpur",
+   "visits": 1,
+   "avg": 75,
+   "band": "Yellow · B"
+  },
+  {
+   "farmName": "Sajahan mia Batipara",
+   "farmId": 4531,
+   "farmType": "Layer",
+   "region": "Kishoreganj",
+   "territory": "Kishoreganj 2",
+   "visits": 1,
+   "avg": 75,
+   "band": "Yellow · B"
+  },
+  {
+   "farmName": "Rofiq poultry",
+   "farmId": 4535,
+   "farmType": "Sonali",
+   "region": "Gopalgonj",
+   "territory": "Faridpur",
+   "visits": 1,
+   "avg": 75,
+   "band": "Yellow · B"
+  },
+  {
+   "farmName": "Immam uddin 1000",
+   "farmId": 4538,
+   "farmType": "Layer",
+   "region": "Kishoreganj",
+   "territory": "Kishoreganj 2",
+   "visits": 1,
+   "avg": 75,
+   "band": "Yellow · B"
+  },
+  {
+   "farmName": "Taqwa Poultry",
+   "farmId": 4551,
+   "farmType": "Layer",
+   "region": "Noakhali",
+   "territory": "Feni 1",
+   "visits": 1,
+   "avg": 75,
+   "band": "Yellow · B"
+  },
+  {
+   "farmName": "Alauddin Thulla",
+   "farmId": 4568,
+   "farmType": "Broiler",
+   "region": "Cumilla",
+   "territory": "Chandina",
+   "visits": 1,
+   "avg": 75,
+   "band": "Yellow · B"
+  },
+  {
+   "farmName": "Shahin,01346601477",
+   "farmId": 4579,
+   "farmType": "Broiler",
+   "region": "Cumilla",
+   "territory": "Chandina",
+   "visits": 1,
+   "avg": 75,
+   "band": "Yellow · B"
+  },
+  {
+   "farmName": "Tipu Poultry Farm Sarol",
+   "farmId": 4647,
+   "farmType": "Broiler",
+   "region": "Khulna",
+   "territory": "Jashore",
+   "visits": 1,
+   "avg": 75,
+   "band": "Yellow · B"
+  },
+  {
+   "farmName": "Apon bania color bird",
+   "farmId": 4707,
+   "farmType": "Colour",
+   "region": "Dinajpur",
+   "territory": "Nilphamari",
+   "visits": 4,
+   "avg": 75,
+   "band": "Yellow · B"
+  },
+  {
+   "farmName": "Intaj Duck Farm",
+   "farmId": 4723,
+   "farmType": "Duck",
+   "region": "Rangpur",
+   "territory": "Lalmonirhat",
+   "visits": 2,
+   "avg": 75,
+   "band": "Yellow · B"
+  },
+  {
+   "farmName": "Sujon",
+   "farmId": 4757,
+   "farmType": "Layer",
+   "region": "Tangail",
+   "territory": "Ghatail",
+   "visits": 1,
+   "avg": 75,
+   "band": "Yellow · B"
+  },
+  {
+   "farmName": "Khokon mia 14380",
+   "farmId": 4826,
+   "farmType": "Layer",
+   "region": "Kishoreganj",
+   "territory": "Kishoreganj 1",
+   "visits": 1,
+   "avg": 75,
+   "band": "Yellow · B"
+  },
+  {
+   "farmName": "Ali bottuli",
+   "farmId": 4833,
+   "farmType": "Colour",
+   "region": "Cumilla",
+   "territory": "Daudkandi",
+   "visits": 1,
+   "avg": 75,
+   "band": "Yellow · B"
+  },
+  {
+   "farmName": "Motaleb broiler farm",
+   "farmId": 4844,
+   "farmType": "Broiler",
+   "region": "Gopalgonj",
+   "territory": "Madaripur",
+   "visits": 1,
+   "avg": 75,
+   "band": "Yellow · B"
+  },
+  {
+   "farmName": "Khadija Agro Farm",
+   "farmId": 4865,
+   "farmType": "Layer",
+   "region": "Noakhali",
+   "territory": "Feni 1",
+   "visits": 1,
+   "avg": 75,
+   "band": "Yellow · B"
+  },
+  {
+   "farmName": "Ovi Farm-1",
+   "farmId": 4892,
+   "farmType": "Broiler",
+   "region": "Ctg North",
+   "territory": "Hathazari",
+   "visits": 1,
+   "avg": 75,
+   "band": "Yellow · B"
+  },
+  {
+   "farmName": "Azmot broiler",
+   "farmId": 4915,
+   "farmType": "Broiler",
+   "region": "Gazipur",
+   "territory": "Savar",
+   "visits": 1,
+   "avg": 75,
+   "band": "Yellow · B"
+  },
+  {
+   "farmName": "Md.Shohan",
+   "farmId": 4990,
+   "farmType": "Sonali",
+   "region": "Bogura",
+   "territory": "Joypurhat",
+   "visits": 1,
+   "avg": 75,
+   "band": "Yellow · B"
+  },
+  {
+   "farmName": "Md. Jalal",
+   "farmId": 5047,
+   "farmType": "Broiler",
+   "region": "Narayanganj",
+   "territory": "Narayanganj",
+   "visits": 1,
+   "avg": 75,
+   "band": "Yellow · B"
+  },
+  {
+   "farmName": "Liton bamonshikor",
+   "farmId": 5050,
+   "farmType": "Layer",
+   "region": "Rajshahi",
+   "territory": "Rajshahi",
+   "visits": 1,
+   "avg": 75,
+   "band": "Yellow · B"
+  },
+  {
+   "farmName": "Anarul",
+   "farmId": 5051,
+   "farmType": "Colour",
+   "region": "Rajshahi",
+   "territory": "Rajshahi",
+   "visits": 1,
+   "avg": 75,
+   "band": "Yellow · B"
+  },
+  {
+   "farmName": "Mojid parila",
+   "farmId": 5052,
+   "farmType": "Layer",
+   "region": "Rajshahi",
+   "territory": "Rajshahi",
+   "visits": 2,
+   "avg": 75,
+   "band": "Yellow · B"
+  },
+  {
+   "farmName": "Junaid",
+   "farmId": 3649,
+   "farmType": "Broiler",
+   "region": "Dinajpur",
+   "territory": "Nilphamari",
+   "visits": 3,
+   "avg": 73.5,
+   "band": "Yellow · B"
+  },
+  {
+   "farmName": "Imran layer farm.",
+   "farmId": 2378,
+   "farmType": "Layer",
+   "region": "Gopalgonj",
+   "territory": "Madaripur",
+   "visits": 6,
+   "avg": 73,
+   "band": "Yellow · B"
+  },
+  {
+   "farmName": "Babu",
+   "farmId": 952,
+   "farmType": "Layer",
+   "region": "Rangpur",
+   "territory": "Lalmonirhat",
+   "visits": 3,
+   "avg": 72.9,
+   "band": "Yellow · B"
+  },
+  {
+   "farmName": "Sadek",
+   "farmId": 4401,
+   "farmType": "Layer",
+   "region": "Ctg South",
+   "territory": "Cox's Bazar 2",
+   "visits": 3,
+   "avg": 72.9,
+   "band": "Yellow · B"
+  },
+  {
+   "farmName": "selim L",
+   "farmId": 1395,
+   "farmType": "Layer",
+   "region": "Ctg South",
+   "territory": "Cox's Bazar 2",
+   "visits": 7,
+   "avg": 72.3,
+   "band": "Yellow · B"
+  },
+  {
+   "farmName": "Milton (cb)",
+   "farmId": 3165,
+   "farmType": "Colour",
+   "region": "Jhenaidah",
+   "territory": "Jhenaidah",
+   "visits": 2,
+   "avg": 71.9,
+   "band": "Yellow · B"
+  },
+  {
+   "farmName": "Hasib(icha)",
+   "farmId": 4888,
+   "farmType": "Broiler",
+   "region": "Jhenaidah",
+   "territory": "Jhenaidah",
+   "visits": 2,
+   "avg": 71.9,
+   "band": "Yellow · B"
+  },
+  {
+   "farmName": "shahbuddin",
+   "farmId": 1217,
+   "farmType": "Layer",
+   "region": "Ctg South",
+   "territory": "Cox's Bazar 2",
+   "visits": 3,
+   "avg": 70.9,
+   "band": "Yellow · B"
+  },
+  {
+   "farmName": "Malek Hazi (HuB - M) Layer",
+   "farmId": 1750,
+   "farmType": "Layer",
+   "region": "Barishal",
+   "territory": "Bhula",
+   "visits": 3,
+   "avg": 70.9,
+   "band": "Yellow · B"
+  },
+  {
+   "farmName": "Bokul poultry",
+   "farmId": 3398,
+   "farmType": "Layer",
+   "region": "Gopalgonj",
+   "territory": "Faridpur",
+   "visits": 3,
+   "avg": 70.8,
+   "band": "Yellow · B"
+  },
+  {
+   "farmName": "Hanif Agro",
+   "farmId": 3448,
+   "farmType": "Layer",
+   "region": "Gopalgonj",
+   "territory": "Faridpur",
+   "visits": 3,
+   "avg": 70.8,
+   "band": "Yellow · B"
+  },
+  {
+   "farmName": "Nazrul Hatchary",
+   "farmId": 3939,
+   "farmType": "Broiler",
+   "region": "Gopalgonj",
+   "territory": "Faridpur",
+   "visits": 3,
+   "avg": 70.8,
+   "band": "Yellow · B"
+  },
+  {
+   "farmName": "Masud Poultry",
+   "farmId": 3813,
+   "farmType": "Sonali",
+   "region": "Gopalgonj",
+   "territory": "Faridpur",
+   "visits": 1,
+   "avg": 70,
+   "band": "Yellow · B"
+  },
+  {
+   "farmName": "Alina Agro farm",
+   "farmId": 311,
+   "farmType": "Broiler",
+   "region": "Khulna",
+   "territory": "Jashore",
+   "visits": 1,
+   "avg": 68.8,
+   "band": "Yellow · B"
+  },
+  {
+   "farmName": "Atiar",
+   "farmId": 358,
+   "farmType": "Sonali",
+   "region": "Jhenaidah",
+   "territory": "Jhenaidah",
+   "visits": 1,
+   "avg": 68.8,
+   "band": "Yellow · B"
+  },
+  {
+   "farmName": "Sadek",
+   "farmId": 437,
+   "farmType": "Broiler",
+   "region": "Ctg South",
+   "territory": "Satkania",
+   "visits": 1,
+   "avg": 68.8,
+   "band": "Yellow · B"
+  },
+  {
+   "farmName": "Mikayl Broiler farm",
+   "farmId": 1473,
+   "farmType": "Broiler",
+   "region": "Khulna",
+   "territory": "Jashore",
+   "visits": 2,
+   "avg": 68.8,
+   "band": "Yellow · B"
+  },
+  {
+   "farmName": "Ali Agro Farm",
+   "farmId": 1803,
+   "farmType": "Broiler",
+   "region": "Khulna",
+   "territory": "Jashore",
+   "visits": 1,
+   "avg": 68.8,
+   "band": "Yellow · B"
+  },
+  {
+   "farmName": "Tobibar rahaman",
+   "farmId": 2045,
+   "farmType": "Duck",
+   "region": "Dinajpur",
+   "territory": "Nilphamari",
+   "visits": 1,
+   "avg": 68.8,
+   "band": "Yellow · B"
+  },
+  {
+   "farmName": "Md. Juwel poultry",
+   "farmId": 2050,
+   "farmType": "Layer",
+   "region": "Dinajpur",
+   "territory": "Nilphamari",
+   "visits": 3,
+   "avg": 68.8,
+   "band": "Yellow · B"
+  },
+  {
+   "farmName": "Habib",
+   "farmId": 2192,
+   "farmType": "Layer",
+   "region": "Ctg South",
+   "territory": "Cox's Bazar 2",
+   "visits": 2,
+   "avg": 68.8,
+   "band": "Yellow · B"
+  },
+  {
+   "farmName": "Hridoy",
+   "farmId": 2662,
+   "farmType": "Broiler",
+   "region": "Jhenaidah",
+   "territory": "Jhenaidah",
+   "visits": 2,
+   "avg": 68.8,
+   "band": "Yellow · B"
+  },
+  {
+   "farmName": "Rafiqul 01",
+   "farmId": 2947,
+   "farmType": "Colour",
+   "region": "Sirajganj",
+   "territory": "Sirajganj 1",
+   "visits": 1,
+   "avg": 68.8,
+   "band": "Yellow · B"
+  },
+  {
+   "farmName": "nazrul poultry",
+   "farmId": 3546,
+   "farmType": "Layer",
+   "region": "Gopalgonj",
+   "territory": "Faridpur",
+   "visits": 2,
+   "avg": 68.8,
+   "band": "Yellow · B"
+  },
+  {
+   "farmName": "Saiful Poultry",
+   "farmId": 3560,
+   "farmType": "Layer",
+   "region": "Gopalgonj",
+   "territory": "Faridpur",
+   "visits": 2,
+   "avg": 68.8,
+   "band": "Yellow · B"
+  },
+  {
+   "farmName": "Ibrahim poultry",
+   "farmId": 3613,
+   "farmType": "Broiler",
+   "region": "Gopalgonj",
+   "territory": "Faridpur",
+   "visits": 2,
+   "avg": 68.8,
+   "band": "Yellow · B"
+  },
+  {
+   "farmName": "Shopon",
+   "farmId": 3755,
+   "farmType": "Sonali",
+   "region": "Tangail",
+   "territory": "Jamalpur",
+   "visits": 1,
+   "avg": 68.8,
+   "band": "Yellow · B"
+  },
+  {
+   "farmName": "Pakhi Da",
+   "farmId": 3758,
+   "farmType": "Sonali",
+   "region": "Tangail",
+   "territory": "Jamalpur",
+   "visits": 1,
+   "avg": 68.8,
+   "band": "Yellow · B"
+  },
+  {
+   "farmName": "Juel Bhatipara",
+   "farmId": 3784,
+   "farmType": "Broiler",
+   "region": "Mymensingh",
+   "territory": "Mymensingh",
+   "visits": 1,
+   "avg": 68.8,
+   "band": "Yellow · B"
+  },
+  {
+   "farmName": "Ziaur Poultry Farm",
+   "farmId": 4070,
+   "farmType": "Broiler",
+   "region": "Bogura",
+   "territory": "Naogaon",
+   "visits": 1,
+   "avg": 68.8,
+   "band": "Yellow · B"
+  },
+  {
+   "farmName": "Jasim(Katoli)",
+   "farmId": 4134,
+   "farmType": "Broiler",
+   "region": "Jhenaidah",
+   "territory": "Jhenaidah",
+   "visits": 1,
+   "avg": 68.8,
+   "band": "Yellow · B"
+  },
+  {
+   "farmName": "Salamotullah",
+   "farmId": 4257,
+   "farmType": "Layer",
+   "region": "Ctg South",
+   "territory": "Cox's Bazar 2",
+   "visits": 2,
+   "avg": 68.8,
+   "band": "Yellow · B"
+  },
+  {
+   "farmName": "mominul",
+   "farmId": 4524,
+   "farmType": "Layer",
+   "region": "Dinajpur",
+   "territory": "Nilphamari",
+   "visits": 1,
+   "avg": 68.8,
+   "band": "Yellow · B"
+  },
+  {
+   "farmName": "komol layer cakla",
+   "farmId": 4539,
+   "farmType": "Layer",
+   "region": "Dinajpur",
+   "territory": "Nilphamari",
+   "visits": 1,
+   "avg": 68.8,
+   "band": "Yellow · B"
+  },
+  {
+   "farmName": "Younus",
+   "farmId": 4540,
+   "farmType": "Broiler",
+   "region": "Ctg South",
+   "territory": "Cox's Bazar 2",
+   "visits": 1,
+   "avg": 68.8,
+   "band": "Yellow · B"
+  },
+  {
+   "farmName": "Rinku, boroitoli",
+   "farmId": 4697,
+   "farmType": "Broiler",
+   "region": "Ctg South",
+   "territory": "Cox's Bazar 1",
+   "visits": 2,
+   "avg": 68.8,
+   "band": "Yellow · B"
+  },
+  {
+   "farmName": "Anoyar",
+   "farmId": 4831,
+   "farmType": "Duck",
+   "region": "Dinajpur",
+   "territory": "Nilphamari",
+   "visits": 1,
+   "avg": 68.8,
+   "band": "Yellow · B"
+  },
+  {
+   "farmName": "Barir Khamar",
+   "farmId": 4914,
+   "farmType": "Sonali",
+   "region": "Noakhali",
+   "territory": "Feni 1",
+   "visits": 1,
+   "avg": 68.8,
+   "band": "Yellow · B"
+  },
+  {
+   "farmName": "Bhutto",
+   "farmId": 4939,
+   "farmType": "Sonali",
+   "region": "Jhenaidah",
+   "territory": "Jhenaidah",
+   "visits": 1,
+   "avg": 68.8,
+   "band": "Yellow · B"
+  },
+  {
+   "farmName": "Jalil: Eskandar",
+   "farmId": 5021,
+   "farmType": "Broiler",
+   "region": "Ctg North",
+   "territory": "Sitakundo",
+   "visits": 1,
+   "avg": 68.8,
+   "band": "Yellow · B"
+  },
+  {
+   "farmName": "Saiful ul",
+   "farmId": 5026,
+   "farmType": "Layer",
+   "region": "Ctg South",
+   "territory": "Cox's Bazar 2",
+   "visits": 1,
+   "avg": 68.8,
+   "band": "Yellow · B"
+  },
+  {
+   "farmName": "Nur shahed",
+   "farmId": 5028,
+   "farmType": "Layer",
+   "region": "Ctg South",
+   "territory": "Cox's Bazar 2",
+   "visits": 2,
+   "avg": 68.8,
+   "band": "Yellow · B"
+  },
+  {
+   "farmName": "Omar Faruk",
+   "farmId": 572,
+   "farmType": "Layer",
+   "region": "Jhenaidah",
+   "territory": "Jhenaidah",
+   "visits": 2,
+   "avg": 67.9,
+   "band": "Yellow · B"
+  },
+  {
+   "farmName": "Forid",
+   "farmId": 1239,
+   "farmType": "Layer",
+   "region": "Ctg South",
+   "territory": "Cox's Bazar 2",
+   "visits": 3,
+   "avg": 66.7,
+   "band": "Yellow · B"
+  },
+  {
+   "farmName": "AA agro",
+   "farmId": 2756,
+   "farmType": "Broiler",
+   "region": "Cumilla",
+   "territory": "Baura",
+   "visits": 2,
+   "avg": 65.7,
+   "band": "Yellow · B"
+  },
+  {
+   "farmName": "Tamim(s br)",
+   "farmId": 4887,
+   "farmType": "Broiler",
+   "region": "Jhenaidah",
+   "territory": "Jhenaidah",
+   "visits": 2,
+   "avg": 65.7,
+   "band": "Yellow · B"
+  },
+  {
+   "farmName": "parvej",
+   "farmId": 4983,
+   "farmType": "Broiler",
+   "region": "Ctg South",
+   "territory": "Cox's Bazar 2",
+   "visits": 2,
+   "avg": 65.7,
+   "band": "Yellow · B"
+  },
+  {
+   "farmName": "Khorshed Farm",
+   "farmId": 4604,
+   "farmType": "Broiler",
+   "region": "Narsingdi",
+   "territory": "Shibpur",
+   "visits": 4,
+   "avg": 65.6,
+   "band": "Yellow · B"
+  },
+  {
+   "farmName": "idris",
+   "farmId": 1208,
+   "farmType": "Layer",
+   "region": "Ctg South",
+   "territory": "Cox's Bazar 2",
+   "visits": 3,
+   "avg": 64.6,
+   "band": "Red · C"
+  },
+  {
+   "farmName": "Bidhan",
+   "farmId": 662,
+   "farmType": "Layer",
+   "region": "Jhenaidah",
+   "territory": "Jhenaidah",
+   "visits": 2,
+   "avg": 62.5,
+   "band": "Red · C"
+  },
+  {
+   "farmName": "monjur alom",
+   "farmId": 1179,
+   "farmType": "Layer",
+   "region": "Ctg South",
+   "territory": "Cox's Bazar 2",
+   "visits": 1,
+   "avg": 62.5,
+   "band": "Red · C"
+  },
+  {
+   "farmName": "Selim Farm Bisharkandi",
+   "farmId": 1642,
+   "farmType": "Broiler",
+   "region": "Barishal",
+   "territory": "Barishal",
+   "visits": 1,
+   "avg": 62.5,
+   "band": "Red · C"
+  },
+  {
+   "farmName": "Istiaq fish feed",
+   "farmId": 1720,
+   "farmType": "Layer",
+   "region": "Cumilla",
+   "territory": "Laksham",
+   "visits": 2,
+   "avg": 62.5,
+   "band": "Red · C"
+  },
+  {
+   "farmName": "Masum kaka color",
+   "farmId": 2320,
+   "farmType": "Colour",
+   "region": "Cumilla",
+   "territory": "Cumilla",
+   "visits": 1,
+   "avg": 62.5,
+   "band": "Red · C"
+  },
+  {
+   "farmName": "Ashik marks feed",
+   "farmId": 2521,
+   "farmType": "Broiler",
+   "region": "Cumilla",
+   "territory": "Laksham",
+   "visits": 1,
+   "avg": 62.5,
+   "band": "Red · C"
+  },
+  {
+   "farmName": "Ruhul agro",
+   "farmId": 2592,
+   "farmType": "Layer",
+   "region": "Cumilla",
+   "territory": "Laksham",
+   "visits": 2,
+   "avg": 62.5,
+   "band": "Red · C"
+  },
+  {
+   "farmName": "Liton Agro",
+   "farmId": 3030,
+   "farmType": "Broiler",
+   "region": "Cumilla",
+   "territory": "Baura",
+   "visits": 1,
+   "avg": 62.5,
+   "band": "Red · C"
+  },
+  {
+   "farmName": "Imran (H)",
+   "farmId": 3160,
+   "farmType": "Broiler",
+   "region": "Jhenaidah",
+   "territory": "Jhenaidah",
+   "visits": 1,
+   "avg": 62.5,
+   "band": "Red · C"
+  },
+  {
+   "farmName": "Didar Agro",
+   "farmId": 3341,
+   "farmType": "Layer",
+   "region": "Cumilla",
+   "territory": "Cumilla",
+   "visits": 1,
+   "avg": 62.5,
+   "band": "Red · C"
+  },
+  {
+   "farmName": "Bokul poultry",
+   "farmId": 3403,
+   "farmType": "Layer",
+   "region": "Gopalgonj",
+   "territory": "Faridpur",
+   "visits": 1,
+   "avg": 62.5,
+   "band": "Red · C"
+  },
+  {
+   "farmName": "Randhonu Poultry",
+   "farmId": 3470,
+   "farmType": "Layer",
+   "region": "Noakhali",
+   "territory": "Feni 1",
+   "visits": 1,
+   "avg": 62.5,
+   "band": "Red · C"
+  },
+  {
+   "farmName": "Amirul poultry",
+   "farmId": 3775,
+   "farmType": "Sonali",
+   "region": "Gopalgonj",
+   "territory": "Faridpur",
+   "visits": 2,
+   "avg": 62.5,
+   "band": "Red · C"
+  },
+  {
+   "farmName": "Mahfuz",
+   "farmId": 3805,
+   "farmType": "Layer",
+   "region": "Tangail",
+   "territory": "Sherpur",
+   "visits": 1,
+   "avg": 62.5,
+   "band": "Red · C"
+  },
+  {
+   "farmName": "Bgb c 11",
+   "farmId": 3944,
+   "farmType": "Colour",
+   "region": "Ctg South",
+   "territory": "Cox's Bazar 2",
+   "visits": 1,
+   "avg": 62.5,
+   "band": "Red · C"
+  },
+  {
+   "farmName": "Faruk Agro",
+   "farmId": 4089,
+   "farmType": "Colour",
+   "region": "Cumilla",
+   "territory": "Baura",
+   "visits": 1,
+   "avg": 62.5,
+   "band": "Red · C"
+  },
+  {
+   "farmName": "Md.Mijan",
+   "farmId": 4470,
+   "farmType": "Broiler",
+   "region": "Cumilla",
+   "territory": "Daudkandi",
+   "visits": 1,
+   "avg": 62.5,
+   "band": "Red · C"
+  },
+  {
+   "farmName": "Jahirul",
+   "farmId": 4516,
+   "farmType": "Broiler",
+   "region": "Jhenaidah",
+   "territory": "Jhenaidah",
+   "visits": 1,
+   "avg": 62.5,
+   "band": "Red · C"
+  },
+  {
+   "farmName": "Forhad mia 1100",
+   "farmId": 4542,
+   "farmType": "Layer",
+   "region": "Kishoreganj",
+   "territory": "Kishoreganj 2",
+   "visits": 1,
+   "avg": 62.5,
+   "band": "Red · C"
+  },
+  {
+   "farmName": "Sohan(b)",
+   "farmId": 4657,
+   "farmType": "Broiler",
+   "region": "Jhenaidah",
+   "territory": "Jhenaidah",
+   "visits": 1,
+   "avg": 62.5,
+   "band": "Red · C"
+  },
+  {
+   "farmName": "Habibullah",
+   "farmId": 4687,
+   "farmType": "Broiler",
+   "region": "Ctg South",
+   "territory": "Cox's Bazar 2",
+   "visits": 1,
+   "avg": 62.5,
+   "band": "Red · C"
+  },
+  {
+   "farmName": "Betagi: nurul islam",
+   "farmId": 4987,
+   "farmType": "Broiler",
+   "region": "Ctg North",
+   "territory": "Hathazari",
+   "visits": 1,
+   "avg": 62.5,
+   "band": "Red · C"
+  },
+  {
+   "farmName": "Abu taher",
+   "farmId": 5027,
+   "farmType": "Layer",
+   "region": "Ctg South",
+   "territory": "Cox's Bazar 2",
+   "visits": 1,
+   "avg": 62.5,
+   "band": "Red · C"
+  },
+  {
+   "farmName": "Taj 001",
+   "farmId": 5034,
+   "farmType": "Colour",
+   "region": "Sirajganj",
+   "territory": "Sirajganj 1",
+   "visits": 1,
+   "avg": 62.5,
+   "band": "Red · C"
+  },
+  {
+   "farmName": "Jahangir",
+   "farmId": 2924,
+   "farmType": "Broiler",
+   "region": "Ctg South",
+   "territory": "Cox's Bazar 2",
+   "visits": 5,
+   "avg": 60,
+   "band": "Red · C"
+  },
+  {
+   "farmName": "Md.Amir Bottuli",
+   "farmId": 4836,
+   "farmType": "Broiler",
+   "region": "Cumilla",
+   "territory": "Daudkandi",
+   "visits": 1,
+   "avg": 60,
+   "band": "Red · C"
+  },
+  {
+   "farmName": "Abdul Agro",
+   "farmId": 3045,
+   "farmType": "Broiler",
+   "region": "Cumilla",
+   "territory": "Baura",
+   "visits": 2,
+   "avg": 59.4,
+   "band": "Red · C"
+  },
+  {
+   "farmName": "Delowar",
+   "farmId": 4256,
+   "farmType": "Broiler",
+   "region": "Ctg South",
+   "territory": "Cox's Bazar 2",
+   "visits": 2,
+   "avg": 59.4,
+   "band": "Red · C"
+  },
+  {
+   "farmName": "Farm11",
+   "farmId": 970,
+   "farmType": "Sonali",
+   "region": "Sirajganj",
+   "territory": "Sirajganj 1",
+   "visits": 3,
+   "avg": 58.4,
+   "band": "Red · C"
+  },
+  {
+   "farmName": "Babu poultry farm",
+   "farmId": 861,
+   "farmType": "Layer",
+   "region": "Gopalgonj",
+   "territory": "Faridpur",
+   "visits": 2,
+   "avg": 56.3,
+   "band": "Red · C"
+  },
+  {
+   "farmName": "miru",
+   "farmId": 1851,
+   "farmType": "Broiler",
+   "region": "Ctg South",
+   "territory": "Cox's Bazar 2",
+   "visits": 1,
+   "avg": 56.3,
+   "band": "Red · C"
+  },
+  {
+   "farmName": "rifat b",
+   "farmId": 2223,
+   "farmType": "Broiler",
+   "region": "Ctg South",
+   "territory": "Cox's Bazar 2",
+   "visits": 2,
+   "avg": 56.3,
+   "band": "Red · C"
+  },
+  {
+   "farmName": "khairul",
+   "farmId": 1035,
+   "farmType": "Broiler",
+   "region": "Ctg South",
+   "territory": "Cox's Bazar 2",
+   "visits": 1,
+   "avg": 50,
+   "band": "Red · C"
+  },
+  {
+   "farmName": "Amjat poultry",
+   "farmId": 2869,
+   "farmType": "Broiler",
+   "region": "Gopalgonj",
+   "territory": "Faridpur",
+   "visits": 1,
+   "avg": 50,
+   "band": "Red · C"
+  },
+  {
+   "farmName": "Badhsa agro",
+   "farmId": 2949,
+   "farmType": "Layer",
+   "region": "Cumilla",
+   "territory": "Laksham",
+   "visits": 1,
+   "avg": 50,
+   "band": "Red · C"
+  },
+  {
+   "farmName": "Didar Agro",
+   "farmId": 3050,
+   "farmType": "Broiler",
+   "region": "Cumilla",
+   "territory": "Baura",
+   "visits": 1,
+   "avg": 50,
+   "band": "Red · C"
+  },
+  {
+   "farmName": "Jannat Poultry",
+   "farmId": 3471,
+   "farmType": "Layer",
+   "region": "Noakhali",
+   "territory": "Feni 1",
+   "visits": 1,
+   "avg": 50,
+   "band": "Red · C"
+  },
+  {
+   "farmName": "Khorshed reja Agro",
+   "farmId": 3591,
+   "farmType": "Layer",
+   "region": "Cumilla",
+   "territory": "Baura",
+   "visits": 1,
+   "avg": 50,
+   "band": "Red · C"
+  },
+  {
+   "farmName": "Amzad poultry",
+   "farmId": 3789,
+   "farmType": "Broiler",
+   "region": "Gopalgonj",
+   "territory": "Faridpur",
+   "visits": 1,
+   "avg": 50,
+   "band": "Red · C"
+  },
+  {
+   "farmName": "mahbub v",
+   "farmId": 4591,
+   "farmType": "Broiler",
+   "region": "Ctg South",
+   "territory": "Cox's Bazar 2",
+   "visits": 1,
+   "avg": 50,
+   "band": "Red · C"
+  },
+  {
+   "farmName": "Shaidul poultry",
+   "farmId": 4951,
+   "farmType": "Sonali",
+   "region": "Gopalgonj",
+   "territory": "Faridpur",
+   "visits": 1,
+   "avg": 50,
+   "band": "Red · C"
+  },
+  {
+   "farmName": "Younus poultry",
+   "farmId": 5081,
+   "farmType": "Sonali",
+   "region": "Gopalgonj",
+   "territory": "Faridpur",
+   "visits": 1,
+   "avg": 50,
+   "band": "Red · C"
+  }
+ ]
+}

@@ -1,0 +1,42 @@
+{
+  "_authority": "Technical Services (Poultry & Cattle) - App Contents.xlsx, sheets 'Farm condition Graph for Broile' and 'Farm condition Graph for Layer'",
+  "mode": "spec",
+  "bands": { "green": 80, "yellow": 65, "fromUnroundedMean": true },
+  "rounding": { "decimals": 1, "mode": "halfAwayFromZero" },
+  "marks": { "good": 100, "bad": 50 },
+  "window": { "mode": "rollingDays", "days": 90 },
+  "minParametersRecorded": 1,
+  "dedupeShedDay": true,
+  "excludeFutureDates": true,
+  "ammoniaOverride": { "column": "strAmonia", "matchPrefix": "Risky", "visitScore": 0, "propagateToFarm": false },
+  "parameters": {
+    "feederHeight":    { "column": "strHeightOfFeeder",  "good": "Equal to back position", "label_bn": "ফিডারের উচ্চতা" },
+    "drinkerHeight":   { "column": "strHeightOfDrinker", "good": "Equal to back position", "label_bn": "ড্রিংকারের উচ্চতা" },
+    "litterMaterial":  { "column": "strLitterMaterials", "good": "Rice husk",              "label_bn": "লিটারের উপকরণ" },
+    "litterCondition": { "column": "strLitterCondition", "good": "Standard",               "label_bn": "লিটারের অবস্থা" },
+    "curtain":         { "column": "StrCurtainManage",   "good": "Bottom to Top",          "label_bn": "পর্দা ব্যবস্থাপনা" },
+    "humidity":        { "column": "strHumidity",        "good": "Within range",           "label_bn": "আর্দ্রতা" },
+    "ventilation":     { "column": "strVentilation",     "good": "Satisfactory",           "label_bn": "বায়ু চলাচল" },
+    "ammonia":         { "column": "strAmonia",          "good": "Good (< 10 ppm)",        "label_bn": "অ্যামোনিয়া" },
+    "stockingDensity": { "column": "strStockingDensity", "good": "Normal",                 "label_bn": "মজুদ ঘনত্ব" }
+  },
+  "knownValues": {
+    "feederHeight":    ["Equal to back position", "Below than back position", "Upper than back position"],
+    "drinkerHeight":   ["Equal to back position", "Below than back position", "Upper than back position"],
+    "litterMaterial":  ["Rice husk", "Wood shavings", "Sawdust", "Sand", "Straw", "Others", "Wood savings", "Saw dust"],
+    "litterCondition": ["Standard", "Dry", "Moist", "Dusty", "Heavy moist"],
+    "curtain":         ["Bottom to Top", "Top to bottom", "Open up and down"],
+    "humidity":        ["Within range", "High", "Low"],
+    "ventilation":     ["Satisfactory", "Unsatisfactory"],
+    "ammonia":         ["Good (< 10 ppm)", "Alarming (11 - 25 ppm)", "Risky (> 25 ppm)"],
+    "stockingDensity": ["Normal", "High"]
+  },
+  "livestockGroups": {
+    "meatBird": { "farmTypes": ["Broiler","Sonali","Colour"],
+      "parameters": ["feederHeight","drinkerHeight","litterMaterial","litterCondition","curtain","humidity","ventilation","ammonia","stockingDensity"] },
+    "layer": { "farmTypes": ["Layer","Duck"],
+      "parameters": ["curtain","humidity","ventilation","ammonia","stockingDensity"] }
+  },
+  "excludedFarmTypes": ["Cattle","Fish"],
+  "ageLimits": { "Broiler": 42, "Sonali": 70, "Colour": 70, "Layer": 700, "Duck": 700 }
+}
